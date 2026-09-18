@@ -39,9 +39,9 @@
     "header": {
       "type": "header",
       "settings": {
-        "logo_position_desktop": "left",
+        "logo_position_desktop": "center",
         "section_width": "full",
-        "vertical_padding": 18,
+        "vertical_padding": 16,
         "horizontal_padding": 40,
         "use_different_mobile_padding": true,
         "vertical_padding_mobile": 14,
@@ -65,7 +65,7 @@
             "show_categories_link": false,
             "show_mobile_categories": true,
             "nav_alignment_desktop": "center",
-            "vertical_padding": 16,
+            "vertical_padding": 14,
             "nav_divider_color": "transparent",
             "show_secondary_menu": false
           }
