@@ -7,8 +7,8 @@
       "settings": {
         "section_width": "full",
         "horizontal_padding": 32,
-        "background_color": "#294F52",
-        "text_color": "#FFFFFF"
+        "background_color": "#122628",
+        "text_color": "#DFCEB8"
       },
       "blocks": {
         "nav_icon_text": {
@@ -23,7 +23,7 @@
               "settings": {
                 "icon_source": "design",
                 "icon": "shipping",
-                "description": "FRETE GRÁTIS NAS COMPRAS ACIMA DE R$ 199 · PARCELE EM ATÉ 6X SEM JUROS"
+                "description": "✨ Frete Grátis para todo o Brasil em compras acima de R$ 299 | Parcelamento em até 6x sem juros"
               }
             }
           },
@@ -41,11 +41,11 @@
       "settings": {
         "logo_position_desktop": "left",
         "section_width": "full",
-        "vertical_padding": 16,
+        "vertical_padding": 18,
         "horizontal_padding": 40,
         "use_different_mobile_padding": true,
         "vertical_padding_mobile": 14,
-        "horizontal_padding_mobile": 24,
+        "horizontal_padding_mobile": 20,
         "background_color": "#FFFFFF",
         "text_color": "#182324"
       },

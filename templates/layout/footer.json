@@ -1,11 +1,11 @@
 {
   "type": "footer",
-  "name": "Rodapé da página",
+  "name": "Rodapé Glitz",
   "sections": {
     "footer": {
       "type": "footer",
       "settings": {
-        "background_color": "#1D3D40",
+        "background_color": "#0D1C1E",
         "text_color": "#FFFFFF",
         "vertical_padding": 80,
         "menus_toggle": true,
