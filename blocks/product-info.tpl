@@ -27,6 +27,9 @@
 	{% endfor %}
 </div>
 
+
+{% include "snippets/olfactory-pyramid.tpl" %}
+
 {% schema %}
 {
 	"name": "t:names.purchase_info",

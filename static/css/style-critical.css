@@ -4934,3 +4934,167 @@ input[type=number] {
 .filters-controls-content {
   visibility: hidden;
 }
+
+/* ============================================================================
+   #GLITZ PERFUMARIA - LUXURY DESIGN SYSTEM STYLES
+============================================================================ */
+
+/* Google Fonts - Plus Jakarta Sans & Playfair Display */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --glitz-emerald: #1D3D40;
+  --glitz-forest: #294F52;
+  --glitz-dark: #0D1C1E;
+  --glitz-gold: #C5A880;
+  --glitz-gold-light: #DFCEB8;
+  --glitz-bg-warm: #F8F7F3;
+  --glitz-text: #182324;
+}
+
+/* Luxury Backgrounds */
+.bg-mesh-dark {
+  background: radial-gradient(circle at 15% 15%, #2D585C 0%, #173235 50%, #0D1C1E 100%) !important;
+}
+
+.glass-pill {
+  background: rgba(255, 255, 255, 0.08) !important;
+  backdrop-filter: blur(12px) !important;
+  -webkit-backdrop-filter: blur(12px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.15) !important;
+  border-radius: 9999px !important;
+  padding: 6px 14px !important;
+}
+
+.glass-card-dark {
+  background: rgba(29, 61, 64, 0.55) !important;
+  backdrop-filter: blur(16px) !important;
+  -webkit-backdrop-filter: blur(16px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.14) !important;
+  border-radius: 16px !important;
+}
+
+/* Gold Gradient Buttons */
+.btn-gold {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 10px !important;
+  background: linear-gradient(135deg, #DFCEB8 0%, #C5A880 50%, #A8875B 100%) !important;
+  color: #122628 !important;
+  font-family: var(--font-headings) !important;
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase !important;
+  padding: 14px 30px !important;
+  border-radius: 6px !important;
+  border: none !important;
+  cursor: pointer !important;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  box-shadow: 0 4px 14px rgba(197, 168, 128, 0.35) !important;
+}
+
+.btn-gold:hover {
+  filter: brightness(1.08) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 8px 22px rgba(197, 168, 128, 0.5) !important;
+}
+
+/* Product Card Refinements */
+.item-product, .product-item, .card-product {
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  background: #FFFFFF !important;
+  border: 1px solid #E8ECEB !important;
+}
+
+.item-product:hover, .product-item:hover, .card-product:hover {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 16px 36px -10px rgba(29, 61, 64, 0.15) !important;
+  border-color: #DFCEB8 !important;
+}
+
+.item-image img, .product-item-image img {
+  transition: transform 0.7s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+.item-product:hover .item-image img, .product-item:hover img {
+  transform: scale(1.07) !important;
+}
+
+/* Luxury Badges for Perfumes */
+.label-niche {
+  background: #1D3D40 !important;
+  color: #DFCEB8 !important;
+  border: 1px solid rgba(197, 168, 128, 0.4) !important;
+  font-weight: 700 !important;
+  letter-spacing: 1.5px !important;
+  text-transform: uppercase !important;
+}
+
+.label-arabe {
+  background: #341B08 !important;
+  color: #E6C078 !important;
+  border: 1px solid rgba(230, 192, 120, 0.4) !important;
+  font-weight: 700 !important;
+  letter-spacing: 1.5px !important;
+  text-transform: uppercase !important;
+}
+
+/* Olfactory Pyramid Container */
+.olfactory-pyramid {
+  margin-top: 24px;
+  padding: 20px;
+  background: #FFFFFF;
+  border: 1px solid #E2E8E7;
+  border-radius: 10px;
+}
+
+.olfactory-pyramid-title {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #182324;
+  margin-bottom: 16px;
+}
+
+.olfactory-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.olfactory-note-card {
+  padding: 12px;
+  background: #F8F7F3;
+  border: 1px solid #E2E8E7;
+  border-radius: 6px;
+}
+
+.olfactory-note-card-title {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #294F52;
+  margin-bottom: 6px;
+}
+
+.olfactory-note-list {
+  font-size: 12px;
+  color: #182324;
+  line-height: 1.4;
+}
+
+/* Top Promo Bar */
+.section-navigation-bar {
+  background-color: #294F52 !important;
+  color: #FFFFFF !important;
+  font-size: 11px !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase !important;
+  font-weight: 600 !important;
+}
