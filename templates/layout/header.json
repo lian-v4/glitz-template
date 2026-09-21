@@ -53,9 +53,9 @@
         "logo": {
           "type": "header-logo",
           "settings": {
-            "height": 48,
+            "height": 70,
             "use_different_mobile_height": true,
-            "height_mobile": 34
+            "height_mobile": 52
           }
         },
         "navigation": {
