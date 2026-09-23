@@ -83,5 +83,6 @@
     "cart_action": "show_notification",
     "label_border_radius": 4,
     "label_shipping_border_radius": 4
-  }
+  },
+  "css_code": ""
 }
