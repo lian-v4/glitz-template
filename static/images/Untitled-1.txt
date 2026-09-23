@@ -1,0 +1,4311 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+        <link rel="preconnect" href="https://dcdn-us.mitiendanube.com" />
+<link rel="dns-prefetch" href="https://dcdn-us.mitiendanube.com" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Loja online de Glitz  Cosmeticos</title>
+<meta name="description" content="Compre produtos de Glitz  Cosmeticos por internet. Temos linha niche, perfumes masculinos e mais. Fa&ccedil;a seu pedido e pague-o online." />
+
+
+<meta property="og:site_name" content="Glitz  Cosmeticos" />
+
+
+
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Loja online de Glitz  Cosmeticos" />
+	<meta property="og:description" content="Compre produtos de Glitz  Cosmeticos por internet. Temos linha niche, perfumes masculinos e mais. Fa&ccedil;a seu pedido e pague-o online." />
+	<meta property="og:url" content="https://glitzcosmeticos.lojavirtualnuvem.com.br" />
+
+
+
+
+        
+
+
+
+
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    
+        <link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Plus+Jakarta+Sans:400,700&amp;display=swap" />
+    <link rel="preload" href="//dcdn-us.mitiendanube.com/assets/themes/ipanema/static/js/libraries-standalone-a0db0bc608f94b4469d89e831a7a29bc30.js" as="script" />
+    <link rel="preload" href="//dcdn-us.mitiendanube.com/stores/008/277/830/themes/ipanema/style-critical-4ef722fcd3b4ef09c32f4c8646adfb98.min.css" as="style" />
+    <link rel="preload" href="//dcdn-us.mitiendanube.com/stores/008/277/830/themes/ipanema/style-utilities-c0aecd622274e18a4457353665418961.min.css" as="style" />
+
+        <style>
+      
+
+
+
+
+		@import url('//fonts.googleapis.com/css?family=Plus+Jakarta+Sans:400,700&display=swap');
+
+
+
+:root {
+
+  
+  
+    
+  
+        
+        
+        
+        
+        
+  --main-background: #FFFFFF;
+  --main-foreground: #182324;
+
+  --accent-color: #C5A880;
+
+  --button-primary-background-color: #1D3D40;
+  --button-primary-foreground-color: #FFFFFF;
+
+  --button-primary-border-radius: 6px;
+      --button-primary-background: #1D3D40;
+    --button-primary-border: 0;
+    --button-primary-color: #FFFFFF;
+    --button-primary-fill: #FFFFFF;
+  
+  --button-secondary-border-radius: 6px;
+      --button-secondary-background: #FFFFFF;
+    --button-secondary-border: 1px solid #1D3D40;
+    --button-secondary-color: #1D3D40;
+    --button-secondary-fill: #1D3D40;
+    --button-secondary-text-decoration: none;
+  
+  --button-tertiary-border-radius: 4px;
+      --button-tertiary-background: transparent;
+    --button-tertiary-border: 0;
+    --button-tertiary-color: #C5A880;
+    --button-tertiary-fill: #C5A880;
+    --button-tertiary-text-decoration: underline;
+  
+  --label-primary-background: #1D3D40;
+  --label-primary-foreground: #DFCEB8;
+  --label-primary-border-radius: 4px;
+      --label-primary-border: 0;
+  
+  --label-secondary-background: #294F52;
+  --label-secondary-foreground: #FFFFFF;
+  --label-secondary-border-radius: 4px;
+      --label-secondary-border: 0;
+  
+  
+                          
+  --main-foreground-opacity-03: #18232408;
+  --main-foreground-opacity-05: #1823240D;
+  --main-foreground-opacity-10: #1823241A;
+  --main-foreground-opacity-20: #18232433;
+  --main-foreground-opacity-30: #1823244D;
+  --main-foreground-opacity-40: #18232466;
+  --main-foreground-opacity-50: #18232480;
+  --main-foreground-opacity-60: #18232499;
+
+  --main-background-opacity-30: #FFFFFF4D;
+  --main-background-opacity-50: #FFFFFF80;
+  --main-background-opacity-80: #FFFFFFCC;
+
+  --label-secondary-background-80: #294F52CC;
+
+  
+  --success: #4bb98c;
+  --danger: #dd7774;
+  --warning: #dc8f38;
+
+  
+  
+  --heading-font: "Plus Jakarta Sans", sans-serif;
+  --body-font: "Plus Jakarta Sans", sans-serif;
+
+  
+  
+  --font-base: 14px;
+  --font-base-default: 16px;
+
+  
+  --font-huge: 23px;
+  --font-big: 17px;
+  --font-medium: 15px;
+  --font-small: 13px;
+  --font-smallest: 11px;
+  --font-extra-smallest: 10px;
+
+  
+  
+  --h1: 44px;
+  --h2: 37px;
+  --h3: 30px;
+  --h4: 26px;
+  --h5: 21px;
+  --h6: 17px;
+  --h6-small: 15px;
+
+  
+  
+  --title-font-weight: 400;
+
+  
+  
+  --spacing-base: 16px;
+  --spacing-half: calc(var(--spacing-base) / 2);
+  --spacing-quarter: calc(var(--spacing-base) / 4);
+
+  --spacing-1: calc(var(--spacing-base) * 0.25);
+  --spacing-2: calc(var(--spacing-base) * 0.5);
+  --spacing-3: var(--spacing-base);
+  --spacing-4: calc(var(--spacing-base) * 1.5);
+  --spacing-5: calc(var(--spacing-base) * 3);
+
+  --spacing-section: calc(var(--spacing-base) * 4);
+  --spacing-section-small: calc(var(--spacing-base) * 2);
+
+  
+  --section-content-lateral-padding: calc(var(--spacing-base) * 5);
+
+  
+  --icon-size-md: 0.875em;
+  --icon-size-lg: 1.33em;
+  --icon-size-2x: 2em;
+
+  
+  --gutter: var(--spacing-base);
+  --gutter-container: var(--gutter);
+  --gutter-container-md: calc(var(--gutter) * 2);
+  --gutter-negative: calc(var(--gutter) * -1);
+  --gutter-half: calc(var(--gutter) / 2);
+  --gutter-half-negative: calc(var(--gutter) * -1 / 2);
+  --gutter-double: calc(var(--gutter) * 2);
+
+  
+    --page-width: 1440px;
+
+  
+  
+  --transition-fast: all 0.2s ease;
+  --transition-normal: all 0.3s ease;
+  --transition-slow: all 1s ease;
+
+  
+  --drop-shadow: 0 0 8px 4px var(--main-foreground-opacity-05);
+
+  
+  --border-radius: 8px;
+  --border-radius-medium: calc(var(--border-radius) / 1.3333);
+  --border-radius-small: calc(var(--border-radius) / 2);
+  --border-radius-smallest: calc(var(--border-radius) / 4);
+  --border-radius-full: 100%;
+
+  
+  --border-solid: 1px solid;
+}
+    </style>
+
+        <link rel="stylesheet" type="text/css" href="//dcdn-us.mitiendanube.com/stores/008/277/830/themes/ipanema/style-critical-4ef722fcd3b4ef09c32f4c8646adfb98.min.css" media="all" />
+
+        <link rel="stylesheet" type="text/css" href="//dcdn-us.mitiendanube.com/stores/008/277/830/themes/ipanema/style-utilities-c0aecd622274e18a4457353665418961.min.css" media="all" />
+
+        <link rel="stylesheet" href="//dcdn-us.mitiendanube.com/stores/008/277/830/themes/ipanema/style-async-77e066c957008c628baf87201f2d516e.min.css" media="print" onload="this.media='all'">
+
+              <style id="custom-theme-css">
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --glitz-dark: #0D1C1E;
+  --glitz-emerald: #1D3D40;
+  --glitz-gold: #C5A880;
+  --glitz-gold-light: #DFCEB8;
+  --glitz-border: #E5EAE9;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+  background-color: #FFFFFF !important;
+  color: #182324 !important;
+  -webkit-font-smoothing: antialiased;
+}
+
+.section-navigation-bar {
+  background: #122628 !important;
+  color: #DFCEB8 !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.08em !important;
+}
+
+.section-header {
+  border-bottom: 1px solid #E5EAE9 !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.03) !important;
+}
+
+/* FIX DUPLICATED LOGO TEXT */
+.logo-text-container a.logo-text h1.logo-text {
+  display: none !important;
+}
+
+.logo-text-container a.logo-text {
+  font-size: 0 !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  text-decoration: none !important;
+  line-height: 1 !important;
+}
+
+.logo-text-container a.logo-text::after {
+  content: "✦ GLITZ PERFUMARIA" !important;
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+  font-size: 1.45rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.16em !important;
+  background: linear-gradient(135deg, #1D3D40 0%, #C5A880 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+/* Clean Desktop Navigation Bar */
+.js-nav-desktop-container {
+  visibility: visible !important;
+  height: auto !important;
+  display: block !important;
+  margin-top: 8px !important;
+}
+
+.nav-desktop-list {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 8px !important;
+}
+
+.nav-desktop-list a {
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+  font-size: 11.5px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.14em !important;
+  text-transform: uppercase !important;
+  color: #1D3D40 !important;
+  padding: 8px 12px !important;
+  transition: all 0.2s ease !important;
+}
+
+.nav-desktop-list a:hover {
+  color: #C5A880 !important;
+}
+
+.section-footer {
+  background: #0D1C1E !important;
+  color: rgba(255, 255, 255, 0.8) !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.section-footer a {
+  color: rgba(255, 255, 255, 0.7) !important;
+  text-decoration: none !important;
+}
+
+.section-footer a:hover {
+  color: #DFCEB8 !important;
+}
+
+.section-custom {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* --- GLITZ PERFUMARIA AI LOGO --- */
+.logo-text-container a.logo-text,
+a.logo-text,
+.header-logo a {
+  display: inline-block !important;
+  width: 290px !important;
+  height: 70px !important;
+  background-image: url('https://raw.githubusercontent.com/lian-v4/glitz-template/main/static/images/logo-glitz-header-verde.png') !important;
+  background-size: contain !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  text-indent: -9999px !important;
+  overflow: hidden !important;
+  font-size: 0 !important;
+  transition: transform 0.2s ease;
+}
+
+.logo-text-container a.logo-text:hover,
+a.logo-text:hover,
+.header-logo a:hover {
+  transform: scale(1.02);
+}
+
+.logo-text-container a.logo-text h1.logo-text,
+.logo-text-container a.logo-text span,
+a.logo-text h1 {
+  display: none !important;
+}
+
+@media (max-width: 768px) {
+  .logo-text-container a.logo-text,
+  a.logo-text,
+  .header-logo a {
+    width: 210px !important;
+    height: 52px !important;
+  }
+}
+}
+
+
+/* --- GLITZ PRODUCT DETAIL PAGE SIZING --- */
+.section-main-product,
+.main-product,
+[data-section-type="main-product"] {
+  max-width: 1280px !important;
+  margin: 0 auto !important;
+  padding: 30px 20px 60px 20px !important;
+}
+
+.product-images,
+.js-product-images,
+[data-block-type="product-media"] {
+  max-width: 480px !important;
+  margin: 0 auto !important;
+}
+
+.product-images-slider,
+.product-image-container,
+.product-image,
+.swiper-slide-product {
+  max-height: 480px !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+}
+
+.product-image img,
+.product-images-slider img,
+.product-slider img,
+.swiper-slide-product img,
+.product-images img {
+  max-height: 460px !important;
+  width: auto !important;
+  max-width: 100% !important;
+  object-fit: contain !important;
+  margin: 0 auto !important;
+  display: block !important;
+}
+
+@media (max-width: 768px) {
+  .product-images,
+  .js-product-images,
+  [data-block-type="product-media"] {
+    max-width: 100% !important;
+  }
+  .product-image img,
+  .product-images-slider img,
+  .product-images img {
+    max-height: 320px !important;
+  }
+}
+
+      </style>
+    
+    
+        
+
+
+<link rel="canonical" href="https://glitzcosmeticos.lojavirtualnuvem.com.br/" />
+
+<meta name="nuvempay-logo" content="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/nuvempago@2x.png" />
+
+
+
+
+
+
+
+<script type="text/javascript">
+    var LS = LS || {};
+    LS.store = {
+        id : 8277830,
+        url : "glitzcosmeticos.lojavirtualnuvem.com.br",
+        custom_url : "glitzcosmeticos.lojavirtualnuvem.com.br",
+        ga4_measurement_id : "",
+        gads_measurement_id : "",
+        has_preexisting_google_mc_catalog : false,
+        has_google_analytics_track_product_ids : false,
+        should_group_kits_for_analytics : false,
+        skip_ga4_frontend_analytics : false,
+        skip_gads_frontend_analytics : false,
+        name: "Glitz\u0020\u0020Cosmeticos",
+        has_kits_v2: false,
+        nube_sdk_product_state: "full",
+    };
+    LS.cart = {
+        id : null,
+        hash : null,
+        subtotal : 0,
+        has_non_shippable_products: false,
+        has_shippable_products: false,
+        items : [
+                    ],
+        grouped_items : [
+                    ],
+        analytics_items: [
+                    ]
+    };
+    LS.hasCartMinimumValue = false;
+    LS.abStorefrontCartExperiments = null;
+    LS.lang = "pt_BR";
+    LS.langCode = "pt";
+    LS.currency = {
+        code : "BRL",
+        display_short: "R\u0024",
+        display_long: "R\u0024",
+        cents_separator : ",",
+        thousands_separator : "."
+    };
+    LS.country = "BR";
+                LS.customer = null;
+    LS.customerHasPriceTables = false;
+    LS.template= "home";
+    LS.isPreview = false;
+    LS.theme = {
+        code: "ipanema",
+        name: "Ipanema",
+        custom: false,
+                version: "latest",
+        forked: false,
+            };
+    LS.metricsWorkerScriptUrl = "https://dcdn-us.mitiendanube.com/assets/stores/js/metrics-worker-c984926f96a2e4787f155a9755d6944a30.js?v=18712563"
+
+    LS.socialScripts = [];
+    LS.DOMReady = function(fn) {
+        if (document.addEventListener) {
+            document.addEventListener('DOMContentLoaded', fn);
+        } else {
+            document.attachEvent('onreadystatechange', function() {
+                if (document.readyState === 'interactive')
+                    fn();
+            });
+        }
+    };
+
+    // Making it a thenable so it can be made into a full fledged Promise later
+    LS._readyCallbacks = [];
+    LS.ready = {
+        then: function(callback){
+            LS._readyCallbacks.push(callback);
+        }
+    };
+
+    window.addEventListener('load', () => {
+        if(!window.cartService) {
+            return;
+        }
+
+        window.cartService.setCurrentLoadTime(1790170371);
+    });
+
+    window.pageData = {
+        id: "home",
+        name: "In\u00EDcio"
+    }
+
+    window.initialCart = {"id":null,"subtotal":0,"total":0,"discounts":0,"promotions":[],"shipping_zipcode":null};
+
+    window.metricServiceDispatchQueue = [];
+    window.metricService = { dispatch: (event) => window.metricServiceDispatchQueue.push(event) };
+
+    window.translations = {
+        cart: {
+            error_messages: {
+                out_of_stock: 'Este produto está fora de estoque.',
+                unavailable_product: 'Este produto não está disponível.',
+                update_error: 'Ocorreu um erro ao atualizar o carrinho.',
+                subscription_only_product: 'Este produto está disponível apenas para assinaturas.',
+                subscription_item_already_in_cart: 'Este produto já está no carrinho.',
+                subscription_limit_reached: 'Você já possui uma assinatura no carrinho.'
+            },
+            name: 'Carrinho de compras'
+        }
+    };
+</script>
+
+
+                    <script>
+            window.recaptchaEnabled = true;
+            window.recaptchaV2 = { siteKey: '6Ldp6lUqAAAAAEmZBhIVl_tzMi70KlSohR77QfLc' };
+            window.recaptchaV3 = { siteKey: '6LezGnQcAAAAAD5T1ReYv_OMo1EJbDUfPu7srRhU' };
+        </script>
+    
+
+
+<script>
+    window.enableNativeLibraries = true;
+    window.hasMetricsTag = false;
+    window.hasFixFilterPaginationTag = false;
+    window.hasUpdatingCartStatusTag = false;
+    window.hasMaxPaymentDiscountFixTag = false;
+</script>
+
+    <script type="text/javascript" src="//dcdn-us.mitiendanube.com/assets/stores/js/linkedstore-v2-81fc702de3322b77ddd5c4d9477dd03030.js?v=18712563" async="true"></script>
+    <script>window.vanillaJS = true;</script>
+
+
+<script type="text/javascript">
+                window.skipJQuery = true;
+    
+    LS.ready.then(() =>  {
+        if (!window.jQueryNuvem) {
+            window.jQueryNuvem = $
+        }
+    });
+</script>
+
+
+
+    
+<script type="text/javascript">
+
+    function ga_send_event(category, action, label, value) {
+                    return;
+            }
+
+    </script>
+
+
+
+
+
+    
+<script type="text/javascript">
+    function amplitude_log_event(event, properties) {
+        // dummy function
+        return true;
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+        
+<script type="application/ld+json" data-component='structured-data.organization'>
+{
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name": "Glitz  Cosmeticos",
+		"url": "https://glitzcosmeticos.lojavirtualnuvem.com.br"
+		}
+</script>
+    
+
+	<script type="application/ld+json" data-component='structured-data.page'>
+	{
+		"@context": "https://schema.org/",
+		"@type": "WebPage",
+		"name": "Loja online de Glitz  Cosmeticos",
+					"description": "Compre produtos de Glitz  Cosmeticos por internet. Temos linha niche, perfumes masculinos e mais. Fa&amp;ccedil;a seu pedido e pague-o online.",
+				"breadcrumb": {
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+			{
+				"@type": "ListItem",
+				"position": 1,
+				"name": "Início",
+				"item": "https://glitzcosmeticos.lojavirtualnuvem.com.br"
+			}													]
+		}	}
+	</script>
+
+  </head>
+
+  
+  <body
+    class=" template-home "
+    data-ajax-cart="true"          data-inactive-tab-msg1="Não perca..."
+      data-inactive-tab-msg2="Volte!"
+            data-preview="false"
+  >
+    
+
+
+
+                        <div id="nubesdk-root"></div>
+                                <div id="nubesdk-runtime"></div>
+                                                                    <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_main_content"
+                                                                                            ></div>
+            
+
+        
+
+<svg xmlns="http://www.w3.org/2000/svg" class="js-icon-sprite hidden">
+
+    
+    <symbol id="menu" viewBox="0 0 512 512">
+        <path d="M256 416H64V390.4H256V416ZM448 272H64V246.4H448V272ZM448 128H64V102.4H448V128Z"/>
+    </symbol>
+
+    <symbol id="search" viewBox="0 0 512 512">
+        <path d="M208 72C296.3661 72 368 143.6344 368 232C368 275.1142 350.9043 314.2042 323.1744 342.976L458.0992 477.9008L440 496L304 360C277.2582 380.0883 244.022 392 208 392C119.6344 392 48 320.3661 48 232C48 143.6344 119.6344 72 208 72ZM208 97.6C133.7728 97.6 73.6 157.7728 73.6 232C73.6 306.2272 133.7728 366.4 208 366.4C282.2272 366.4 342.4 306.2272 342.4 232C342.4 157.7728 282.2272 97.6 208 97.6Z"/>
+    </symbol>
+
+    <symbol id="user" viewBox="0 0 512 512">
+        <path d="M256 259.2C369.1085 259.2 460.8 350.8915 460.8 464V476.8H51.2V464C51.2 350.8915 142.892 259.2 256 259.2ZM256 284.8C161.3356 284.8 83.8648 358.2054 77.3 451.2H434.7008C428.1344 358.2054 350.6637 284.8 256 284.8ZM256 32C309.0202 32 352 74.9806 352 128C352 181.0194 309.0202 224 256 224C202.9806 224 160 181.0194 160 128C160 74.9806 202.9806 32 256 32ZM256 57.6C217.1192 57.6 185.6 89.1192 185.6 128C185.6 166.8808 217.1192 198.4 256 198.4C294.8813 198.4 326.4 166.8808 326.4 128C326.4 89.1192 294.8813 57.6 256 57.6Z"/>
+    </symbol>
+
+    <symbol id="cart" viewBox="0 0 512 512">
+        <path d="M404.2187 404.2187C418.5129 404.2187 432.2196 409.896 442.3273 420.0037C452.435 430.1114 458.1121 443.8181 458.1121 458.1121C458.1121 472.4063 452.435 486.1161 442.3273 496.2236C432.2196 506.3313 418.5129 512.0086 404.2187 512.0086C389.9247 512.0086 376.2149 506.3313 366.1072 496.2236C355.9996 486.1161 350.3223 472.4063 350.3223 458.1121C350.3223 443.8181 355.9996 430.1114 366.1072 420.0037C376.2149 409.896 389.9247 404.2187 404.2187 404.2187ZM404.2187 431.1654C397.0718 431.1654 390.2169 434.0057 385.163 439.0594C380.1092 444.1103 377.269 450.9652 377.269 458.1121C377.269 465.2592 380.1092 472.1141 385.163 477.1679C390.2169 482.2218 397.0718 485.0619 404.2187 485.0619C411.3658 485.0619 418.2177 482.2218 423.2715 477.1679C428.3253 472.1141 431.1654 465.2592 431.1654 458.1121C431.1654 450.9652 428.3253 444.1103 423.2715 439.0594C418.2177 434.0057 411.3658 431.1654 404.2187 431.1654ZM161.6869 404.2187C175.9809 404.2187 189.6896 409.896 199.7969 420.0037C209.9042 430.1114 215.5824 443.8181 215.5824 458.1121C215.5824 472.4063 209.9042 486.1161 199.7969 496.2236C189.6896 506.3313 175.9809 512.0086 161.6869 512.0086C147.3929 512.0086 133.6842 506.3313 123.5769 496.2236C113.4695 486.1161 107.7914 472.4063 107.7914 458.1121C107.7914 443.8181 113.4695 430.1114 123.5769 420.0037C133.6842 409.896 147.3929 404.2187 161.6869 404.2187ZM161.6869 431.1654C154.5398 431.1654 147.6855 434.0057 142.632 439.0594C137.5782 444.1103 134.739 450.9652 134.739 458.1121C134.739 465.2592 137.5782 472.1141 142.632 477.1679C147.6855 482.2218 154.5398 485.0619 161.6869 485.0619C168.834 485.0619 175.6882 482.2218 180.742 477.1679C185.7956 472.1141 188.6348 465.2592 188.6348 458.1121C188.6348 450.9652 185.7956 444.1103 180.742 439.0594C175.6882 434.0057 168.834 431.1654 161.6869 431.1654ZM458.1121 80.8434H88.1194L156.8364 242.5303H377.269C386.163 242.5303 393.9786 238.2186 398.8276 231.7514L479.6708 123.96C483.1735 119.3787 485.0619 113.7199 485.0619 107.7914C485.0619 100.6443 482.2218 93.79 477.1679 88.7362C472.1141 83.6827 465.2592 80.8434 458.1121 80.8434ZM377.269 269.4783H158.1839L137.434 311.518L134.739 323.3726C134.739 330.5196 137.5782 337.3745 142.632 342.4283C147.6855 347.4822 154.5398 350.3223 161.6869 350.3223H458.1121V377.269H161.6869C147.3929 377.269 133.6842 371.5918 123.5769 361.4841C113.4695 351.3765 107.7914 337.6667 107.7914 323.3726C107.7833 314.2318 110.1018 305.2354 114.5282 297.2346L133.9306 257.621L36.1102 26.9478H0V0H53.8955L76.8012 53.8955H458.1121C472.4063 53.8955 486.1161 59.574 496.2236 69.6814C506.3313 79.7887 512.0086 93.4972 512.0086 107.7914C512.0086 121.2654 507.4277 132.5834 499.8831 141.7457L421.4644 246.5726C411.7633 260.3161 395.5929 269.4783 377.269 269.4783Z"/>
+    </symbol>
+
+    <symbol id="bag" viewBox="0 0 512 512">
+        <path d="M256 19.2C308.2522 19.2 348.7949 64.9733 348.8 119.0999V144H464V480H48V144H163.2V119.0999C163.2056 64.9733 203.7473 19.2 256 19.2ZM73.6 454.4H438.4V169.6H348.8V256H323.2V169.6H188.8V256H163.2V169.6H73.6V454.4ZM256 44.8C219.894 44.8 188.8054 77.0166 188.8 119.0999V144H323.2V119.0999C323.1949 77.0166 292.1062 44.8 256 44.8Z"/>
+    </symbol>
+
+    <symbol id="location" viewBox="0 0 512 512">
+        <path d="M255.37,456.56c-5.73,.03-11.39-1.29-16.52-3.85-5.13-2.56-9.58-6.29-13.01-10.89l-107.97-143.83c-17.86-25.19-28.46-54.81-30.62-85.62-2.16-30.81,4.19-61.62,18.36-89.06,14.17-27.44,35.61-50.46,61.98-66.53,26.37-16.07,56.65-24.59,87.54-24.61,30.88-.02,61.18,8.45,87.57,24.49,26.4,16.04,47.87,39.02,62.07,66.45,14.21,27.42,20.6,58.22,18.48,89.03-2.12,30.81-12.67,60.44-30.5,85.66l-107.84,143.98c-3.42,4.61-7.88,8.35-13.01,10.91-5.13,2.57-10.8,3.89-16.53,3.87Zm-.17-402.5c-36.06-.11-70.87,13.19-97.66,37.31-26.87,23.99-44,57.02-48.13,92.81-4.13,35.79,5.03,71.84,25.73,101.33l107.75,143.51c1.44,1.94,3.32,3.51,5.49,4.59,2.16,1.08,4.55,1.64,6.97,1.63,2.42,0,4.82-.56,6.99-1.64,2.17-1.08,4.06-2.66,5.52-4.59l107.6-143.66c14.68-20.78,23.71-45.01,26.19-70.33,2.48-25.32-1.67-50.85-12.04-74.08-10.37-23.23-26.6-43.36-47.11-58.42-20.51-15.06-44.58-24.52-69.85-27.46-5.79-.66-11.62-1-17.45-1Zm.17,201.26c-10.55,0-20.86-3.13-29.63-8.99-8.77-5.86-15.61-14.19-19.64-23.94-4.04-9.75-5.09-20.47-3.03-30.81,2.06-10.35,7.14-19.85,14.6-27.31,7.46-7.46,16.96-12.54,27.31-14.6,10.35-2.06,21.07-1,30.81,3.03,9.75,4.04,18.07,10.87,23.93,19.64,5.86,8.77,8.99,19.08,8.99,29.63,0,14.15-5.62,27.71-15.62,37.71-10,10-23.57,15.62-37.71,15.62Zm0-85.33c-6.33,0-12.52,1.88-17.78,5.39-5.26,3.52-9.36,8.51-11.79,14.36-2.42,5.85-3.06,12.28-1.82,18.49,1.23,6.21,4.28,11.91,8.76,16.38,4.48,4.48,10.18,7.52,16.38,8.76,6.21,1.23,12.64,.6,18.49-1.82,5.85-2.42,10.84-6.52,14.36-11.79,3.52-5.26,5.39-11.45,5.39-17.78,0-8.49-3.37-16.63-9.37-22.63-6-6-14.14-9.37-22.63-9.37Z"/>
+    </symbol>
+
+    <symbol id="world" viewBox="0 0 512 512">
+        <path d="M153.5739 256.0017C153.5739 230.6841 155.5135 206.827 158.7428 184.6537H39.1537L39.0859 184.6197C31.7002 207.0785 27.7014 231.0705 27.7014 256.0017C27.7014 280.9215 31.7066 304.8999 39.0859 327.3498H158.7428C155.5135 305.1767 153.5739 281.3193 153.5739 256.0017ZM191.8832 355.0176C197.8713 382.6885 205.6689 406.8274 213.5038 426.7703C221.5644 447.2875 229.6183 463.3282 235.5974 474.1663C237.7497 478.0683 239.653 481.282 241.1713 483.7969C246.0752 484.1083 251.0182 484.302 256.0017 484.302C260.9737 484.302 265.9054 484.1083 270.7982 483.7969C272.3182 481.2786 274.2495 478.0753 276.406 474.1663C282.3851 463.3282 290.439 447.2875 298.4999 426.7703C306.3345 406.8274 314.1321 382.6885 320.1205 355.0176H191.8832ZM50.2342 355.0176C80.2343 417.2505 137.6324 463.733 206.781 478.9297C201.0967 467.9637 194.4175 453.8463 187.7615 436.9061C178.9077 414.3723 170.0844 386.7878 163.6071 355.0176H50.2342ZM348.3966 355.0176C341.9189 386.7878 333.1292 414.3723 324.2754 436.9061C317.6153 453.8567 310.8759 467.9568 305.1888 478.9297C374.3516 463.7399 431.7657 417.2608 461.7681 355.0176H348.3966ZM305.1888 33.039C310.879 44.0154 317.6101 58.1328 324.2754 75.0978C333.1292 97.6325 341.9189 125.2156 348.3966 156.9861H461.7681C431.7622 94.7417 374.3551 48.2271 305.1888 33.039ZM256.0017 27.7014C251.019 27.7014 246.0745 27.8601 241.1713 28.1744C239.6503 30.6918 237.757 33.9214 235.5974 37.8361C229.6183 48.6748 221.5644 64.7159 213.5038 85.2327C205.6689 105.1745 197.8713 129.3135 191.8832 156.9861H320.1205C314.1321 129.3135 306.3345 105.1745 298.4999 85.2327C290.439 64.7159 282.3851 48.6748 276.406 37.8361C274.2422 33.9136 272.3209 30.694 270.7982 28.1744C265.906 27.8614 260.973 27.7014 256.0017 27.7014ZM206.781 33.039C137.6293 48.2343 80.2354 94.7509 50.2342 156.9861H163.6071C170.0844 125.2156 178.9081 97.6325 187.7615 75.0978C194.423 58.145 201.0937 44.011 206.781 33.039ZM181.2417 256.0017C181.2417 281.4289 183.3426 305.2958 186.7482 327.3498H325.2551C328.6608 305.2958 330.7617 281.4293 330.7617 256.0017C330.7617 230.5742 328.6612 206.7081 325.2551 184.6537H186.7482C183.3426 206.7081 181.2417 230.5742 181.2417 256.0017ZM358.4286 256.0017C358.4286 281.3193 356.4912 305.1767 353.2603 327.3498H472.883C480.265 304.8972 484.302 280.9253 484.302 256.0017C484.302 231.0782 480.265 207.1062 472.883 184.6537H353.2603C356.4912 206.827 358.4286 230.6838 358.4286 256.0017ZM512.0041 256.0017C512.0041 387.7183 412.5077 496.0982 284.5814 510.3159C281.3376 512.0249 277.5607 512.3846 274.0078 511.3339C268.057 511.6754 262.0575 512.0041 256.0017 512.0041C249.9344 512.0041 243.9234 511.6754 237.9621 511.3339C234.4226 512.3708 230.6533 512.049 227.422 510.3471C99.4958 496.1362 0 387.7218 0 256.0017C0 124.2715 99.5134 15.8537 227.4559 1.6553C230.6814-0.0326 234.4326-0.3649 237.9621 0.7433C243.9234 0.328 249.9344 0 256.0017 0C262.0575 0 268.057 0.3296 274.0078 0.7433C277.5455-0.4046 281.3124-0.0373 284.5478 1.6553C412.4905 15.8537 512.0041 124.2715 512.0041 256.0017Z"/>
+    </symbol>
+
+    
+    <symbol id="chevron" viewBox="0 0 512 512">
+        <path d="M192.6459 94.5495L353.2928 255.1954L192.6459 415.8413L174.5482 397.7446L317.097 255.1954L174.5482 112.6469L192.6459 94.5495Z"/>
+    </symbol>
+
+    <symbol id="chevron-down" viewBox="0 0 512 512">
+        <path d="M98.3153 221.6847L256 379.369L413.6858 221.6847L395.5866 203.5873L256 343.1757L116.4127 203.5873L98.3153 221.6847Z"/>
+    </symbol>
+
+    <symbol id="chevron-up" viewBox="0 0 512 512">
+        <path d="M98.3153 299.5814L256 141.8967L413.6858 299.5814L395.5866 317.6781L256 178.0918L116.4127 317.6781L98.3153 299.5814Z"/>
+    </symbol>
+
+    <symbol id="chevron-left" viewBox="0 0 512 512">
+        <path d="M304.0282 98.9934L146.3444 256.6784L304.0282 414.3642L322.1274 396.265L182.5395 256.6784L322.1274 117.0908L304.0282 98.9934Z"/>
+    </symbol>
+
+    <symbol id="chevron-right" viewBox="0 0 512 512">
+        <path d="M192.6459 94.5495L353.2928 255.1954L192.6459 415.8413L174.5482 397.7446L317.097 255.1954L174.5482 112.6469L192.6459 94.5495Z"/>
+    </symbol>
+
+    <symbol id="arrow-long" viewBox="0 0 512 512">
+        <path d="M481.3005 256.6502L368.6502 369.3005L350.551 351.2013L432.9242 268.8H48V243.2H431.6262L350.551 162.1L368.6502 144L481.3005 256.6502Z"/>
+    </symbol>
+
+    <symbol id="arrow-long-down" viewBox="0 0 512 512">
+        <path d="M166.33,336.55a12.8,12.8,0,0,1,21.85-9.05l54.95,54.95V93.35a12.8,12.8,0,0,1,25.6,0v289.1l54.95-54.95a12.8,12.8,0,0,1,18.37,17.84l-.27.26-85.85,85.85L170.08,345.6A12.79,12.79,0,0,1,166.33,336.55Z"/>
+    </symbol>
+
+    
+    <symbol id="times" viewBox="0 0 512 512">
+        <path d="M445.399 82.1L271.7491 255.7499L443.2998 427.2998L425.2006 445.399L253.6499 273.8509L82.1 445.399L64 427.2998L235.55 255.7499L61.9 82.1L80 64L253.6499 237.6499L427.2998 64L445.399 82.1Z"/>
+    </symbol>
+
+    <symbol id="minus" viewBox="0 0 512 512">
+        <path d="M448 243.2L448 268.7949L64 268.7949L64 243.2L448 243.2Z"/>
+    </symbol>
+
+    <symbol id="plus" viewBox="0 0 512 512">
+        <path d="M268.8 243.2H448V268.8H268.8V448H243.2V268.8H64V243.2H243.2V64H268.8V243.2Z"/>
+    </symbol>
+
+    <symbol id="check" viewBox="0 0 512 512">
+        <path d="M192.9027 423.7107L450.9517 128.4703L431.6723 111.6214L194.8472 382.5638L98.3933 248.5238L77.611 263.4726L192.9027 423.7107Z"/>
+    </symbol>
+    
+    <symbol id="info" viewBox="0 0 512 512">
+        <path d="M256 0C397.3856 0 512 114.615 512 256C512 397.3856 397.3856 512 256 512C114.615 512 0 397.3856 0 256C0 114.615 114.615 0 256 0ZM256 32C132.2884 32 32 132.2884 32 256C32 379.712 132.2884 480 256 480C379.712 480 480 379.712 480 256C480 132.2884 379.712 32 256 32ZM272 384H240V192H272V384ZM272 160H240V128H272V160Z"/>
+    </symbol>
+
+    <symbol id="calendar" viewBox="0 0 512 512">
+        <path d="M0 64H512V480H0ZM32 96V448H480V96ZM32 160H480V192H32ZM128 0H160V128H128ZM352 0H384V128H352Z"/>
+    </symbol>
+
+
+    <symbol id="instagram" viewBox="0 0 448 512">
+        <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/>
+    </symbol>
+
+    <symbol id="tiktok" viewBox="0 0 448 512">
+        <path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z"/>
+    </symbol>
+
+    <symbol id="youtube" viewBox="0 0 576 512">
+        <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/>
+    </symbol>
+
+    <symbol id="facebook" viewBox="0 0 320 512">
+        <path d="M279.1 288l14.3-92.7h-89v-60c0-25.4 12.5-50.2 52.3-50.2H297V6.4S260.4 0 225.4 0C152 0 104.3 44.4 104.3 124.7v70.6H22.9V288h81.4v224h100.2V288z"/>
+    </symbol>
+
+    <symbol id="pinterest" viewBox="0 0 384 512">
+        <path d="M204 6.5C101.4 6.5 0 74.9 0 185.6 0 256 39.6 296 63.6 296c9.9 0 15.6-27.6 15.6-35.4 0-9.3-23.7-29.1-23.7-67.8 0-80.4 61.2-137.4 140.4-137.4 68.1 0 118.5 38.7 118.5 109.8 0 53.1-21.3 152.7-90.3 152.7-24.9 0-46.2-18-46.2-43.8 0-37.8 26.4-74.4 26.4-113.4 0-66.2-93.9-54.2-93.9 25.8 0 16.8 2.1 35.4 9.6 50.7-13.8 59.4-42 147.9-42 209.1 0 18.9 2.7 37.5 4.5 56.4 3.4 3.8 1.7 3.4 6.9 1.5 50.4-69 48.6-82.5 71.4-172.8 12.3 23.4 44.1 36 69.3 36 106.2 0 153.9-103.5 153.9-196.8C384 71.3 298.2 6.5 204 6.5z"/>
+    </symbol>
+
+    <symbol id="twitter" viewBox="0 0 512 512">
+        <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/>
+    </symbol>
+
+    <symbol id="whatsapp" viewBox="0 0 448 512">
+        <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/>
+    </symbol>
+
+    <symbol id="whatsapp-alt" viewBox="0 0 512 512">
+        <path d="M381.63,288.38a56.33,56.33,0,0,1-.36,8.54,104.14,104.14,0,0,1-4.11,19c-4.21,13.65-15.53,22.83-22.92,27.72-7.77,5.14-17.81,9.83-26.81,11.15a82.26,82.26,0,0,1-30.28-.32c-11-2.15-23.14-6.59-38.34-13.43l-.06,0c-48.26-21.86-80.33-68-87.08-77.7l-.23-.34-.38-.55-.25-.35a129.38,129.38,0,0,1-12.57-20.69c-5.12-10.47-10.85-25.67-10.85-42.37,0-31.78,16.18-48.76,22.59-55.31a39.89,39.89,0,0,1,29.35-13.41h8.77a22.84,22.84,0,0,1,3.2.22,30.09,30.09,0,0,1,16,5.39c6.58,4.63,10.33,11.2,12.76,16.88q.24.56.45,1.14c1.63,4.45,4.74,12.41,7.66,19.71,1.45,3.62,2.81,7,3.87,9.57.72,1.76,1.18,2.85,1.41,3.39s.21.51.16.4l.09.19c1.35,2.74,7.64,15.49.2,29.23a81.6,81.6,0,0,1-7.88,12.8,91.29,91.29,0,0,0,16.83,18.86,120,120,0,0,0,20.56,13.45c2.22-2.85,3.79-5,4.31-5.88,4.06-6.64,11.14-13.25,21.73-14.61a34,34,0,0,1,18,3c4.86,2.13,28.34,13.84,32.84,16.14l1.84.93.35.17a65,65,0,0,1,6.18,3.43,27.67,27.67,0,0,1,10.84,12.91A31.4,31.4,0,0,1,381.63,288.38Zm-161.83-57c-2.6-4.66-.86-6.54,2.72-10.39a58.27,58.27,0,0,0,10.74-15.32c1.75-3,.58-6-.59-8.38s-10.53-25.71-14-35.28c-3.37-7.88-6.35-8.05-8.92-8.2a11.85,11.85,0,0,1-1.61-.17h-8.77a16.68,16.68,0,0,0-12.28,6l-.35.35c-4.88,5-16,16.35-16,39.12,0,23.32,16.38,46,18.71,49,.2.25.59.81,1.16,1.64h0c6.35,9.12,35.44,50.94,77.81,70.13,29.25,13.15,40.95,14.35,55.57,12,8.78-1.2,27.5-11.36,31-22.73s4.09-20.33,2.92-22.72c-.49-1.52-2.67-2.61-6.18-4.37h0l-2-1c-4.68-2.4-27.49-13.76-31.58-15.55s-7.61-2.39-10.53,2.39-11.7,15.55-14.63,18.54-5.26,3.59-9.94,1.2C255.49,273.8,237.94,262.44,219.8,231.34Zm-150,202.84,21.25-76.05a23.29,23.29,0,0,0-2.25-17.88,189.51,189.51,0,0,1-25.32-94.69c0-105.72,87.88-192.42,196.65-192.42,52.69,0,102.09,20.09,139.19,56.55,37.46,36.81,59.5,85.12,59.5,136,0,105.48-89.78,192.42-198.69,192.42h-.1a199.42,199.42,0,0,1-92.77-22.76,23.28,23.28,0,0,0-16.64-1.94ZM43.72,464.9l18.88-4.83,93.86-24.15a222.81,222.81,0,0,0,103.61,25.43h.1c121,0,222-96.63,222-215.69,0-57.74-25-111.86-66.46-152.57s-96.79-63.22-155.5-63.22C139,29.87,40.25,126.55,40.25,245.56a212.76,212.76,0,0,0,28.42,106.3L43.54,441.81l-5,17.84a4.26,4.26,0,0,0,5.17,5.28"/>
+    </symbol>
+
+    <symbol id="comments" viewBox="0 0 512 512">
+        <path d="M0 0H512V416H304L160 512V416H0ZM32 32V384H192V452L294 384H480V32H32Z"/>
+    </symbol>
+
+    <symbol id="phone" viewBox="0 0 512 512">
+        <path d="M487.8 24.0999L387 0.8c-14.6999-3.4-29.8 4.2-35.8 18.1001l-46.4999 108.4999c-5.5001 12.6999-1.8 27.6999 8.9001 36.4999l53.8999 44.1001c-34 69.2-90.2999 125.6-159.6 159.6l-44.1001-53.8999c-8.8-10.6999-23.8-14.4-36.4999-8.9001L18.9001 351.3001C5 357.3001-2.6 372.3001 0.8 387L24 487.6999C27.3001 502 39.8999 512 54.4999 512 306.7001 512 512 307.8 512 54.4999c0-14.6-10-27.2-24.2-30.4zM55.1001 480l-23-99.6 107.4-46 59.5001 72.8c103.6-48.6 159.6999-104.9001 208.0999-208.0999l-72.8-59.5001 46-107.4 99.6 23C479.6999 289.7001 289.6 479.6999 55.1001 480z"/>
+    </symbol>
+
+    <symbol id="email" viewBox="0 0 512 512">
+        <path d="M511.9908 438.9385H0V73.2308H511.9908V438.9385ZM29.2566 409.6818H482.7342V116.9156L256.7952 343.5973L256.7669 343.5686L256.6239 343.8545L29.2566 115.7158V409.6818ZM256.5668 298.9983L452.4769 102.4874H60.6847L256.5668 298.9983Z"/>
+    </symbol>
+
+    
+    <symbol id="play" viewBox="0 0 512 512">
+        <path d="M407.77 256.55L134 398.02V115L407.77 256.55ZM156.99 360.24L357.67 256.54L156.99 152.78V360.24Z"/>
+    </symbol>
+
+    <symbol id="pause" viewBox="0 0 512 512">
+        <path d="M103 394L103 118L219.77 118L219.77 394L103 394ZM119.98 134.98L119.98 377.02L202.79 377.02L202.79 134.98L119.98 134.98ZM262.23 394L262.23 118L379 118L379 394L262.23 394ZM279.21 134.98L279.21 377.02L362.02 377.02L362.02 134.98L279.21 134.98Z"/>
+    </symbol>
+
+    
+    <symbol id="star" viewBox="0 0 512 512">
+        <path d="M249.2672 71.552Q256 59.1872 262.7328 71.552L316.9792 171.2128Q323.712 183.5776 337.5616 186.1632L449.1008 206.9504Q462.9504 209.536 453.2736 219.7504L375.2448 302.1568Q365.568 312.3712 367.3856 326.3488L382.08 438.8608Q383.8976 452.8128 371.2 446.7712L268.7232 398.0288Q256 391.9872 243.2768 398.0288L140.8 446.7712Q128.1024 452.8128 129.92 438.8608L144.6144 326.3488Q146.432 312.3712 136.7552 302.1568L58.7264 219.7504Q49.0496 209.536 62.8992 206.9504L174.4384 186.1632Q188.288 183.5776 195.0208 171.2128ZM262.7328 125.0816Q256 112.7168 249.2672 125.0816L211.6864 194.1504Q204.9536 206.5152 191.104 209.1008L113.8176 223.5136Q99.968 226.0736 109.6704 236.3136L163.712 293.4016Q173.3888 303.616 171.5712 317.568L161.408 395.5456Q159.5648 409.4976 172.288 403.456L243.2768 369.6896Q256 363.6224 268.7232 369.6896L339.712 403.456Q352.4352 409.4976 350.592 395.5456L340.4288 317.568Q338.6112 303.616 348.288 293.4016L402.3296 236.3136Q412.032 226.0736 398.1824 223.5136L320.896 209.1008Q307.0464 206.5152 300.3136 194.1504Z"/>
+    </symbol>
+
+    <symbol id="star-filled" viewBox="0 0 512 512">
+        <path d="M249.2672 71.552Q256 59.1872 262.7328 71.552L316.9792 171.2128Q323.712 183.5776 337.5616 186.1632L449.1008 206.9504Q462.9504 209.536 453.2736 219.7504L375.2448 302.1568Q365.568 312.3712 367.3856 326.3488L382.08 438.8608Q383.8976 452.8128 371.2 446.7712L268.7232 398.0288Q256 391.9872 243.2768 398.0288L140.8 446.7712Q128.1024 452.8128 129.92 438.8608L144.6144 326.3488Q146.432 312.3712 136.7552 302.1568L58.7264 219.7504Q49.0496 209.536 62.8992 206.9504L174.4384 186.1632Q188.288 183.5776 195.0208 171.2128Z"/>
+    </symbol>
+
+    
+    <symbol id="heart" viewBox="0 0 512 512">
+        <path d="M264.1869 461.4067L256 468.1498L247.8126 461.4067L256 451.7018L264.1869 461.4067ZM435.2026 188.905C435.2026 159.8369 425.0598 138.1279 409.5949 123.6457C394.0147 109.0578 372.0602 100.9011 346.9542 100.9001C330.6547 100.9001 312.7859 108.5343 297.3286 119.4176C281.6922 130.4264 270.9504 143.0228 267.671 150.1878C265.6026 154.7169 261.0304 157.641 256 157.641C250.9683 157.641 246.3982 154.7169 244.3282 150.1878C241.0504 143.0228 230.3089 130.4264 214.6719 119.4176C199.2128 108.5343 181.3463 100.9001 165.0468 100.9001C139.9391 100.9011 117.9858 109.0578 102.4061 123.6457C86.9404 138.1279 76.7972 159.8369 76.7969 188.905C76.7969 211.657 87.3805 238.7781 104.9687 267.6506C122.3849 296.2406 145.8043 325.1507 169.5155 351.1347C193.1804 377.0675 216.8773 399.8234 234.6875 416.0998C243.4888 424.1459 250.8393 430.5843 256 435.0362C261.161 430.5843 268.5107 424.1459 277.312 416.0998C295.1219 399.8234 318.8198 377.0675 342.4845 351.1347C366.1952 325.1507 389.6141 296.2406 407.0323 267.6506C424.6195 238.7781 435.2026 211.657 435.2026 188.905ZM460.7974 188.905C460.7974 218.5413 447.3805 250.4678 428.969 280.6912C410.3859 311.1962 385.8048 341.4477 361.5155 368.064C337.1827 394.729 312.8755 418.025 294.6867 434.6496C285.5885 442.967 278.0032 449.6358 272.6707 454.231C270.0058 456.5299 267.8963 458.3117 266.4525 459.5251C265.7331 460.1318 265.1776 460.5978 264.7962 460.9126C264.6067 461.0714 264.4608 461.1994 264.3584 461.2838C264.3098 461.3248 264.2611 461.3555 264.2355 461.376L264.2022 461.4067L256 451.7018L247.797 461.4067L247.7655 461.376C247.7389 461.3555 247.6895 461.3248 247.6406 461.2838C247.5397 461.1994 247.3935 461.0714 247.2031 460.9126C246.8227 460.5978 246.2674 460.1318 245.5468 459.5251C244.1037 458.3117 241.9942 456.5299 239.328 454.231C233.9976 449.6358 226.4125 442.967 217.3125 434.6496C199.124 418.025 174.8175 394.729 150.4845 368.064C126.1965 341.4477 101.6148 311.1962 83.0313 280.6912C64.6203 250.4678 51.2031 218.5413 51.2031 188.905C51.2036 153.6735 63.6895 125.0627 84.7969 105.2979C105.7884 85.6435 134.3511 75.6247 165.0468 75.6234C188.7488 75.6234 211.8026 86.3511 229.5311 98.8321C239.7076 105.9968 248.8993 114.3409 256 122.5656C263.1014 114.3409 272.2918 105.9968 282.4678 98.8321C300.1984 86.3511 323.2512 75.6234 346.9542 75.6234C377.6486 75.6247 406.2106 85.6435 427.2026 105.2979C448.3098 125.0627 460.7974 153.6735 460.7974 188.905Z"/>
+    </symbol>
+
+    
+    <symbol id="truck" viewBox="0 0 512 512">
+        <path d="M382.0278 143.2941H463.5119L511.7653 257.0326V376.8151H440.3252C440.9865 381.0438 441.3394 385.3764 441.3394 389.7919C441.3394 435.8539 403.9987 473.1946 357.9367 473.1946C311.8746 473.1946 274.5339 435.8539 274.5339 389.7919C274.5339 383.4192 275.2812 377.2214 276.6335 371.2579H198.2986C199.6524 377.2214 200.3982 383.4192 200.3982 389.7919C200.3982 435.8539 163.0575 473.1946 116.9955 473.1946C70.9334 473.1946 33.5928 435.8539 33.5928 389.7919C33.5928 385.3764 33.9454 381.0438 34.6063 376.8151H0.2353V69.1583H382.0278V143.2941ZM116.9955 336.0375C87.3109 336.0375 63.24 360.1079 63.24 389.7919C63.24 419.4758 87.3109 443.5462 116.9955 443.5462C146.68 443.5462 170.751 419.4758 170.751 389.7919C170.751 360.1079 146.68 336.0375 116.9955 336.0375ZM357.9367 336.0375C328.2527 336.0375 304.1823 360.1079 304.1823 389.7919C304.1823 419.4758 328.2527 443.5462 357.9367 443.5462C387.6206 443.5462 411.691 419.4758 411.691 389.7919C411.691 360.1079 387.6206 336.0375 357.9367 336.0375ZM29.8824 347.1668H42.8597V351.5823C56.7199 324.7452 84.707 306.3891 116.9955 306.3891C145.1018 306.3891 169.9396 320.3059 185.0498 341.6095H289.883C303.9896 321.7234 326.5713 308.287 352.3795 306.5878V98.8055H29.8824V347.1668ZM382.0278 309.918C403.8029 316.4775 421.809 331.708 432.0724 351.5823V347.1668H482.117V280.4357H382.0278V309.918ZM382.0278 250.7873H476.9038L443.8926 172.9412H382.0278V250.7873Z"/>
+    </symbol>
+
+    <symbol id="credit-card" viewBox="0 0 512 512">
+        <path d="M512 438.8571H0V73.1429H512V438.8571ZM29.2571 409.6H482.7429V201.1429H29.2571V409.6ZM457.1429 384H347.4286V354.7429H457.1429V384ZM29.2571 171.8857H482.7429V102.4H29.2571V171.8857Z"/>
+    </symbol>
+
+    <symbol id="promotions" viewBox="0 0 512 512">
+        <path d="M221.4415 511.5113a26.5174 26.5174 0 0 1-22.9415-13.3202L31.9976 209.8293a26.4355 26.4355 0 0 1-2.0493-22.0808L90.084 17.5882A26.0462 26.0462 0 0 1 119.5318 0.6305L296.9671 33.5724A26.497 26.497 0 0 1 315.1133 46.4008L481.5747 334.8035a26.3637 26.3637 0 0 1 2.705 19.9598 25.9948 25.9948 0 0 1-12.2238 16.0764L234.4646 508.0072A25.9539 25.9539 0 0 1 221.4415 511.5113ZM114.7366 24.7401a1.537 1.537 0 0 0-1.4653 1.0246h0L53.1255 195.9456a1.8955 1.8955 0 0 0 0.1639 1.5882L219.8227 485.9468a1.9057 1.9057 0 0 0 1.1476 0.9017 1.5267 1.5267 0 0 0 1.2193-0.1435L459.7604 349.5377a1.5267 1.5267 0 0 0 0.7275-1.0246 1.9161 1.9161 0 0 0-0.2049-1.455L293.7702 58.6964a1.9571 1.9571 0 0 0-1.3013-0.9427L115.0337 24.7708Zm76.7551 180.335A50.002 50.002 0 1 1 216.4209 198.3842h0A49.7151 49.7151 0 0 1 191.4917 205.0444Zm-0.123-75.464a25.4416 25.4416 0 1 0 12.7566 47.4711h0a25.4314 25.4314 0 0 0-6.1478-46.59A25.7183 25.7183 0 0 0 191.3687 129.5803Z"/>
+    </symbol>
+
+    <symbol id="returns" viewBox="0 0 512 512">
+        <path d="M430.05,175.86a154.25,154.25,0,0,0-112-47.49H76.62L145.1,56a12,12,0,0,0-17.43-16.5L40,132.12l-.25.3c-.14.15-.27.31-.41.47l-.34.45-.33.48c-.11.17-.21.34-.31.51s-.19.32-.27.49a5.2,5.2,0,0,0-.26.53c-.08.17-.16.34-.23.52s-.14.36-.2.54-.13.37-.18.55-.1.38-.15.57-.09.36-.13.55-.07.43-.1.65,0-.33-.07.49c0,.31,0,.62,0,.93,0,.07,0,.15,0,.22v0a11.46,11.46,0,0,0,.06,1.17c0,.15,0,.29.06.43s.06.48.11.72a5.11,5.11,0,0,0,.13.53c0,.2.09.39.15.59s.12.35.18.53.13.37.2.56.15.33.23.5.17.37.26.55l.27.47.32.52.33.46.35.48.4.45c.1.11.19.23.29.33l88.73,92.49a12,12,0,1,0,17.32-16.62L76.88,152.37H318a130.46,130.46,0,0,1,94.75,40.14c24.82,25.76,38.49,60.21,38.49,97v4.88c0,75.77-58.52,135.13-133.24,135.13H116.27a12,12,0,1,0,0,24H318c88.18,0,157.24-69.9,157.24-159.13v-4.88C475.26,246.47,459.21,206.11,430.05,175.86Z"/>
+    </symbol>
+
+    <symbol id="returns-alt" viewBox="0 0 512 512">
+        <path d="M125.375 214.975H99.775V130.6501C75.2358 165.8823 61.7764 208.5632 61.7751 252.6751C61.7751 368.3482 150.3972 461.271 260.7258 461.2762C289.664 461.2762 316.7948 455.575 343.9258 442.2988L358.4 476.4492C327.6518 491.6198 295.0886 499.2 260.7258 499.2C130.5014 499.1974 25.6 389.207 25.6 252.6751C25.6012 202.8966 40.233 155.6864 66.45 115.2H0V89.6H125.375V214.975ZM251.275 12.8C381.4988 12.8031 486.4 122.7935 486.4 259.3249C486.4 309.1046 471.767 356.3136 445.55 396.8H512V422.4H386.624V297.024H412.224V381.3248C436.7564 346.0966 450.2246 303.4292 450.2246 259.3249C450.2246 143.6529 361.6026 50.7279 251.275 50.7252C222.336 50.7252 195.2054 56.426 168.075 69.7001L153.6 35.55C184.3471 20.3803 216.9106 12.8 251.275 12.8Z"/>
+    </symbol>
+
+    <symbol id="security" viewBox="0 0 512 512">
+        <path d="M207.84 124.7803Zm48.16 387.2a12.8 12.8 0 0 1-6.0266-1.504L142.7306 453.2816A196.8853 196.8853 0 0 1 38.2933 279.2336V12.8656a12.8 12.8 0 0 1 12.8-12.8H460.9067a12.8 12.8 0 0 1 12.8 12.8V279.2443a196.896 196.896 0 0 1-104.448 174.0587l-107.2426 57.1733A12.8 12.8 0 0 1 256 511.9803ZM63.8934 25.6656V279.2443a171.3067 171.3067 0 0 0 90.8694 151.4667L256 484.6736l101.2267-53.9627a171.3173 171.3173 0 0 0 90.88-151.4667V25.6656Zm160 280.7146 145.4933-144.2773a12.8 12.8 0 0 0-18.0266-18.1333L214.9547 279.223l-49.5254-49.5147a12.8 12.8 0 0 0-18.1333 18.1333L205.8667 306.3376a12.8 12.8 0 0 0 18.0586 0Z"/>
+    </symbol>
+
+    <symbol id="cash" viewBox="0 0 512 512">
+        <path d="M512 438.8571H0V73.1429H512V438.8571ZM29.2571 331.8872V409.6H108.2857C108.7889 390.6736 101.3081 370.4217 85.5143 354.6288C69.3597 338.4789 48.5479 330.9977 29.2571 331.8872ZM137.4857 102.4C138.367 129.7086 127.6457 157.897 106.1999 179.3427C84.7544 200.7886 56.5657 211.5098 29.2571 210.6286V302.6301C56.5625 301.7465 84.7557 312.5014 106.1999 333.944C127.3057 355.0471 138.0185 382.6981 137.5144 409.6H375.7729C375.2667 382.6981 385.9807 355.0471 407.0869 333.944C428.1899 312.8378 455.8409 302.0976 482.7429 302.6008V210.6573C455.8409 211.1611 428.1899 200.4483 407.0869 179.3427C385.6442 157.8982 374.9186 129.7057 375.7992 102.4H137.4857ZM482.7429 331.8579C463.8193 331.3547 443.5646 338.8358 427.7717 354.6288C411.9786 370.4217 404.5239 390.6736 405.0301 409.6H482.7429V331.8579ZM256 146.2857C306.4949 146.2857 347.4286 195.4064 347.4286 256C347.4286 316.5945 306.4949 365.7143 256 365.7143C205.5054 365.7143 164.5714 316.5945 164.5714 256C164.5714 195.4064 205.5054 146.2857 256 146.2857ZM256 175.5429C226.4319 175.5429 193.8286 206.3437 193.8286 256C193.8286 305.6552 226.4319 336.4571 256 336.4571C285.5673 336.4571 318.1714 305.6552 318.1714 256C318.1714 206.3437 285.5673 175.5429 256 175.5429ZM29.2571 181.4001C48.5505 182.2896 69.3587 174.8129 85.5143 158.6571C101.6701 142.5013 109.1467 121.6934 108.2573 102.4H29.2571V181.4001ZM405.0563 102.4C404.167 121.691 411.6217 142.5022 427.7717 158.6571C443.5646 174.451 463.8193 181.9318 482.7429 181.4286V102.4H405.0563Z"/>
+    </symbol>
+
+    <symbol id="gift" viewBox="0 0 512 512">
+        <path d="M500.7281 267.2736H470.1372V512.0001H41.8647V267.2736H11.2738V144.91H500.7281V267.2736ZM317.1828 481.4092H439.5463V267.2736H317.1828V481.4092ZM225.4101 481.4092H286.5919V267.2736H225.4101V481.4092ZM72.4556 481.4092H194.8192V267.2736H72.4556V481.4092ZM317.1828 236.6827H470.1372V175.5009H317.1828V236.6827ZM225.4101 236.6827H286.5919V175.5009H225.4101V236.6827ZM41.8647 236.6827H194.8192V175.5009H41.8647V236.6827ZM289.8779 34.9142C318.0821 13.274 358.2939 0 411.733 9.8501L424.251 12.1504V24.8767C424.251 38.9633 419.2677 64.095 399.2459 85.8194C378.8143 107.9794 344.583 124.616 289.938 124.5062H222.064C167.4183 124.616 133.1862 107.9794 112.7554 85.8194C92.7334 64.095 87.751 38.9633 87.751 24.8767V12.1504L100.2683 9.8501C153.7072 0 193.9214 13.274 222.1241 34.9142C236.7642 46.15 247.8837 59.4962 256.001 72.5556C264.1183 59.4962 275.2378 46.15 289.8779 34.9142ZM203.5125 59.2017C184.6484 44.7239 157.7152 34.1716 120.2539 37.8719C122.4439 46.0629 126.8695 55.993 135.2505 65.087C148.6187 79.5841 173.8769 94.0126 222.0044 93.9153C225.5573 93.9079 229.2496 93.915 233.1174 93.9153C226.7179 82.2635 217.0319 69.5793 203.5125 59.2017ZM391.7481 37.8719C354.2865 34.1716 327.3542 44.7239 308.4895 59.2017C294.9701 69.5793 285.2841 82.2635 278.8846 93.9153C282.7524 93.915 286.4447 93.9079 289.9975 93.9153C338.1253 94.0126 363.3842 79.5841 376.7524 65.087C385.1312 55.993 389.5578 46.0629 391.7481 37.8719Z"/>
+    </symbol>
+
+    <symbol id="store" viewBox="0 0 544 512">
+        <path d="M514.4755 204.8H468.8V460.8H75.2V204.8H29.525L87.125 51.2H456.8755L514.4755 204.8ZM100.8 204.8V435.2H195.2V259.2H348.8V435.2H443.2V204.8H100.8ZM220.8 435.2H323.2V284.8H220.8V435.2ZM66.475 179.2H477.5245L439.1245 76.8H104.875L66.475 179.2Z"/>
+    </symbol>
+
+    
+    <symbol id="filter" viewBox="0 0 512 512">
+        <path d="M160 339.2C190.3073 339.2 215.3418 361.3901 219.9501 390.4H464V416H218.5999C211.5709 441.8074 188.0351 460.8 160 460.8C131.9649 460.8 108.4291 441.8074 101.4001 416H48V390.4H100.0499C104.6584 361.3901 129.6927 339.2 160 339.2ZM160 364.8C140.5596 364.8 124.8 380.5594 124.8 400C124.8 419.4406 140.5596 435.2 160 435.2C179.4404 435.2 195.2 419.4406 195.2 400C195.2 380.5594 179.4404 364.8 160 364.8ZM352 195.2C382.3078 195.2 407.3421 217.3901 411.9501 246.4H464V272H410.601C403.5712 297.8074 380.0346 316.8 352 316.8C323.9654 316.8 300.4288 297.8074 293.399 272H48V246.4H292.0499C296.6579 217.3901 321.6922 195.2 352 195.2ZM352 220.8C332.5594 220.8 316.8 236.5596 316.8 256C316.8 275.4406 332.5594 291.2 352 291.2C371.4406 291.2 387.2 275.4406 387.2 256C387.2 236.5596 371.4406 220.8 352 220.8ZM160 51.2C190.3073 51.2 215.3418 73.3901 219.9501 102.4H464V128H218.5999C211.5709 153.8066 188.0351 172.8 160 172.8C131.9649 172.8 108.4291 153.8066 101.4001 128H48V102.4H100.0499C104.6584 73.3901 129.6927 51.2 160 51.2ZM160 76.8C140.5596 76.8 124.8 92.5596 124.8 112C124.8 131.4404 140.5596 147.2 160 147.2C179.4404 147.2 195.2 131.4404 195.2 112C195.2 92.5596 179.4404 76.8 160 76.8Z"/>
+    </symbol>
+
+    <symbol id="sort-by" viewBox="0 0 512 512">
+        <path d="M388.8 431.3242L447.2013 372.9254L465.3005 391.0502L376.6502 479.7005L288 391.0502L306.0992 372.9254L363.2 430.0262V64H388.8V431.3242ZM244.5 120.15L226.4 138.25L169.6 81.45V448H144V79.55L85.3 138.25L67.2 120.15L155.85 31.5L244.5 120.15Z"/>
+    </symbol>
+
+    
+    <symbol id="spinner-third" viewBox="0 0 512 512">
+        <path d="M460.115 373.846l-6.941-4.008c-5.546-3.202-7.564-10.177-4.661-15.886 32.971-64.838 31.167-142.731-5.415-205.954-36.504-63.356-103.118-103.876-175.8-107.701C260.952 39.963 256 34.676 256 28.321v-8.012c0-6.904 5.808-12.337 12.703-11.982 83.552 4.306 160.157 50.861 202.106 123.67 42.069 72.703 44.083 162.322 6.034 236.838-3.14 6.149-10.75 8.462-16.728 5.011z"/>
+    </symbol>
+
+    
+    <symbol id="password-show" viewBox="0 0 576 512">
+        <path d="M195.55,258.45c0-32.86,25.37-59.49,56.66-59.49s56.66,26.63,56.66,59.49-25.37,59.49-56.66,59.49-56.66-26.64-56.66-59.49Zm36.95,0c0,11.43,8.82,20.69,19.71,20.69s19.71-9.27,19.71-20.69-8.82-20.69-19.71-20.69-19.71,9.27-19.71,20.69Zm135.73-109.41l102.97,86.39c6.66,5.6,10.53,14.07,10.53,23.02s-3.87,17.42-10.53,23.02l-102.97,86.39c-67.87,56.88-164.19,56.88-232.05,0l-102.97-86.39c-6.66-5.6-10.53-14.06-10.53-23.02s3.88-17.42,10.53-23.02l102.97-86.39c67.87-56.88,164.19-56.88,232.05,0Zm-209.14,189.85c54.5,45.55,131.73,45.55,186.23,0l94.1-80.44-94.1-79.15c-54.5-45.55-131.73-45.55-186.23,0l-94.1,79.15,94.1,80.44Z"/>
+    </symbol>
+
+    <symbol id="password-hide" viewBox="0 0 576 512">
+        <path d="M439.39,412.44c7.65,7.65,7.65,20.04,0,27.69-7.65,7.65-20.04,7.65-27.69,0L87.13,115.56c-7.65-7.65-7.65-20.04,0-27.69s20.04-7.65,27.69,0L439.39,412.44Zm-171.56-96.19l-69.86-69.86c-.71,3.79-1.12,7.7-1.12,11.71,0,33.19,25.63,60.1,57.24,60.1,4.77,0,9.32-.79,13.75-1.94Zm-13.75-118.26c-2.89,0-5.66,.46-8.44,.89l65.11,65.11c.19-1.97,.57-3.88,.57-5.9,0-33.19-25.63-60.1-57.24-60.1Zm221.24,36.84l-104.03-87.28c-57.69-48.35-135.67-55.85-199.82-22.83l29.39,29.39c48.73-19.29,104.8-11.49,147.28,24.02l95.06,79.96-74.6,63.77,26.65,26.65,80.05-67.16c6.73-5.65,10.64-14.21,10.64-23.25s-3.91-17.6-10.64-23.26Zm-315.31,104.52l-95.07-81.27,78.61-66.12-27.2-27.2L32.85,234.84c-6.73,5.65-10.64,14.21-10.64,23.26s3.92,17.6,10.64,23.25l104.03,87.28c58.94,49.4,139.1,56.21,204,20.66l-28.34-28.34c-49.92,22.06-108.48,15.21-152.52-21.59Z"/>
+    </symbol>
+
+</svg>
+
+        
+
+              <header class="js-header header">
+        <section id="ns-section-navigation_bar" class="ns-section section-navigation-bar" data-section-id="navigation_bar" data-section-type="navigation-bar">
+
+
+
+
+
+		<div
+		class="js-navigation-bar navigation-bar "
+		data-section-id="navigation_bar"
+		data-section-type="navigation-bar"
+		style="	--navbar-gap: 32px;
+	--navbar-py: 8px;
+	--navbar-mobile-py: 8px;
+	--navbar-px: 32px; --navbar-mobile-px: 32px;	--navbar-bg: #122628; background-color: #122628;	color: #DFCEB8;"
+	>
+						<div class="navigation-bar-inner">
+					<button type="button" class="js-navigation-bar-arrow-left nav-desktop-list-arrow nav-desktop-list-arrow-left disable" aria-label="Anterior" style="display: none">
+						<svg class="nav-arrow-icon icon-flip-horizontal icon-inline"><use xlink:href="#chevron"/></svg>
+					</button>
+					<div class="js-navigation-bar-list navigation-bar-list">
+													<div class="navigation-bar-group navigation-bar-group-nav-icon-text-group">
+								
+
+			<div class="navigation-bar-block justify-content-center" style="gap: 24px" id="ns-block-nav_icon_text" data-block-id="nav_icon_text" data-block-type="nav-icon-text-group">
+												
+
+
+      <div class="navigation-bar-item" id="ns-block-item_1" data-block-id="item_1" data-block-type="nav-icon-text-item">
+  
+          
+  
+<svg class="icon-inline icon-inline">
+  <use xlink:href="#truck"/>
+</svg>
+    
+          <span>✨ Frete Grátis para todo o Brasil em compras acima de R$ 299 | Parcelamento em até 6x sem juros</span>
+    
+      </div>
+  
+
+									</div>
+	
+							</div>
+											</div>
+					<button type="button" class="js-navigation-bar-arrow-right nav-desktop-list-arrow nav-desktop-list-arrow-right" aria-label="Próximo" style="display: none">
+						<svg class="nav-arrow-icon icon-inline"><use xlink:href="#chevron"/></svg>
+					</button>
+				</div>
+			</div>
+
+		
+
+
+</section>
+<section id="ns-section-header" class="ns-section section-header" data-section-id="header" data-section-type="header">
+																		
+
+
+
+
+
+
+
+
+<div
+	class="js-head-main head-main head-with-mobile-categories"
+	data-store="head"
+	data-section-id="header"
+	data-section-type="header"
+	data-sticky-header="true"
+	style="--header-background: #FFFFFF; background-color: #FFFFFF;	--header-foreground: #182324; color: #182324; --header-foreground-opacity-10: #1823241A; --header-foreground-opacity-20: #18232433;			--nav-item-vertical-padding: 14px;
+	--nav-item-horizontal-padding: 16px;
+			--header-nav-divider-color: transparent;	--logo-height-mobile: 52px;
+	--logo-height-desktop: 70px;
+	--utility-icon-size: 20px;
+	--utility-icon-size-mobile: 20px;
+	--utility-items-gap: 20px;
+	--header-vertical-padding: 16px;
+	--header-vertical-padding-mobile: 14px;
+	--header-padding-x: 40px; --header-padding-x-mobile: 20px;">
+	<div class="head-row  logo-center logo-md-center search-icon-md search-icon-mobile utilities-icons">
+
+											
+<div class="logo-container" id="ns-block-logo" data-block-id="logo" data-block-type="header-logo">
+			<div id="no-logo" class="logo-text-container">
+    <a class="logo-text" href="https://glitzcosmeticos.lojavirtualnuvem.com.br">
+                    <h1 class="logo-text">Glitz  Cosmeticos</h1>
+            </a>
+</div>
+	</div>
+
+																										
+
+<div class="menu-container d-md-none" data-block-id="utilities" data-block-type="header-utilities">
+	<button class="js-modal-open-private header-icon" data-target="#nav-hamburger" data-modal-url="#nav-hamburger" aria-label="Abrir menu">
+		<svg class="utility-icon icon-inline"><use xlink:href="#menu"/></svg>
+	</button>
+</div>
+
+<div class="js-search-container search-container" data-block-id="utilities" data-block-type="header-utilities">
+	<button class="js-search-trigger search-trigger header-icon header-utility"
+		aria-label="Buscar" aria-expanded="false">
+		
+
+<svg class="utility-icon icon-inline">
+  <use xlink:href="#search"/>
+</svg>
+			</button>
+	<div class="js-search-expand-form search-floating-container" aria-hidden="true">
+		
+<div class="search-form-wrap">
+	<form class="js-search-form search-form" action="/search/" method="get">
+		<div class="search-form-field form-group">
+			<input class="js-search-input form-control search-input input_class" autocomplete="off" type="search" name="q" placeholder="Buscar" aria-label="Buscar" />
+			<button type="submit" class="js-search-input-submit search-btn search-submit-btn" value="Buscar" aria-label="Buscar">
+									
+
+<svg class=" icon-inline" style="width: 16px; height: 16px;">
+  <use xlink:href="#search"/>
+</svg>
+							</button>
+							<button type="button" class="js-empty-search search-btn search-empty-btn" aria-label="Buscar" style="display: none;">
+					<svg class="icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+					</div>
+	</form>
+	<div class="js-search-form-suggestions search-suggestions" style="display: none;">
+			</div>
+</div>
+	</div>
+</div>
+
+
+<span class="js-header-dropdown header-account header-utility nav-dropdown d-none d-md-grid" data-block-id="utilities" data-block-type="header-utilities">
+	<a href="/account/login/" class="header-icon" aria-label="Minha conta">
+		<svg class="utility-icon icon-inline"><use xlink:href="#user"/></svg>
+	</a>
+				<div class="js-header-dropdown-content nav-dropdown-content desktop-dropdown desktop-dropdown-small">
+								<a href="/account/login/" class="header-dropdown-link header-dropdown-link-featured">Login</a>
+			<a href="/account/register" class="header-dropdown-link">Cadastre-se</a>
+			</div>
+</span>
+
+
+
+<span id="ajax-cart" class="js-cart-container header-cart header-utility" data-component="cart-button" data-block-id="utilities" data-block-type="header-utilities">
+			<button class="js-modal-open-private header-utility" data-target="#modal-cart" aria-label="Carrinho de compras">
+				<span class="header-icon">
+		<svg class="utility-icon icon-inline"><use xlink:href="#bag"/></svg>
+		<span class="js-cart-widget-amount badge badge-bottom" style="display: none;">0</span>
+	</span>
+	
+		</button>
+	</span>
+
+					
+	</div>
+
+				<div class="main-categories-container d-md-none">
+			<ul class="nav-categories-mobile list-unstyled list-horizontal text-uppercase">
+									<li class="nav-item list-item">
+						<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/linha-niche/" class="nav-list-link">Linha Niche</a>
+					</li>
+									<li class="nav-item list-item">
+						<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/perfumes-masculinos/" class="nav-list-link">Perfumes Masculinos</a>
+					</li>
+									<li class="nav-item list-item">
+						<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/perfumes-femininos/" class="nav-list-link">Perfumes Femininos</a>
+					</li>
+									<li class="nav-item list-item">
+						<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/linha-arabe/" class="nav-list-link">Linha Árabe</a>
+					</li>
+									<li class="nav-item list-item">
+						<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/compartilhaveis/" class="nav-list-link">Compartilháveis</a>
+					</li>
+							</ul>
+		</div>
+	
+										
+
+
+
+
+<div class="nav-desktop-container d-none d-md-block" id="ns-block-navigation" data-block-id="navigation" data-block-type="header-navigation">
+	<div class="js-nav-desktop-container nav-desktop-grid nav-desktop-grid-center " style="visibility:hidden; height:0; padding-left: 40px; padding-right: 40px;">
+
+				
+				<div class="js-desktop-nav-col nav-desktop-grid-main nav-desktop-uppercase">
+			<nav class="nav-desktop position-relative">
+				<button type="button" class="js-nav-desktop-list-arrow js-nav-desktop-list-arrow-left nav-desktop-list-arrow nav-desktop-list-arrow-left disable" aria-label="Anterior" style="display: none">
+					<svg class="nav-arrow-icon icon-flip-horizontal icon-inline"><use xlink:href="#chevron"/></svg>
+				</button>
+				<ul class="js-nav-desktop-list nav-desktop-list list-unstyled">
+																																		
+					<li class="nav-item nav-main-item ">
+						<a href="/" class="nav-list-link  " >
+							Início
+													</a>
+													</li>
+																																			
+					<li class="nav-item nav-main-item nav-dropdown">
+						<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/produtos/" class="nav-list-link  " >
+							Produtos
+															<svg class="nav-list-link-icon icon-inline" ><use xlink:href="#chevron"/></svg>
+													</a>
+																							
+								<div class="js-desktop-dropdown nav-dropdown-content desktop-dropdown">
+									<div class=" desktop-dropdown-container" style="padding-left: 40px; padding-right: 40px;">
+																					<ul class="desktop-list-subitems list-unstyled" >
+																									<li class="nav-item">
+														<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/linha-niche/" class="nav-list-link nav-list-link-heading">Linha Niche</a>
+																											</li>
+																									<li class="nav-item">
+														<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/perfumes-masculinos/" class="nav-list-link nav-list-link-heading">Perfumes Masculinos</a>
+																											</li>
+																									<li class="nav-item">
+														<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/perfumes-femininos/" class="nav-list-link nav-list-link-heading">Perfumes Femininos</a>
+																											</li>
+																									<li class="nav-item">
+														<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/linha-arabe/" class="nav-list-link nav-list-link-heading">Linha Árabe</a>
+																											</li>
+																									<li class="nav-item">
+														<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/compartilhaveis/" class="nav-list-link nav-list-link-heading">Compartilháveis</a>
+																											</li>
+																							</ul>
+																													</div>
+								</div>
+													</li>
+																																			
+					<li class="nav-item nav-main-item ">
+						<a href="/contato/" class="nav-list-link  " >
+							Contato
+													</a>
+													</li>
+									</ul>
+				<button type="button" class="js-nav-desktop-list-arrow js-nav-desktop-list-arrow-right nav-desktop-list-arrow nav-desktop-list-arrow-right" aria-label="Próximo" style="display: none">
+					<svg class="nav-arrow-icon icon-inline"><use xlink:href="#chevron"/></svg>
+				</button>
+			</nav>
+		</div>
+
+				
+	</div>
+</div>
+
+						</div>
+
+
+
+
+	<div class="js-notification-private js-notification-cookie-private notification notification-fixed notification-fixed-bottom" style="display: none;">
+		<span class="notification-message">Ao navegar por este site <strong>você aceita o uso de cookies</strong> para agilizar sua experiência de compra.</span>
+		<button class="js-notification-close-private js-acknowledge-cookies-private notification-accept-btn notification-link btn-link" data-amplitude-event-name="cookie_banner_acknowledge_click">Entendi</button>
+	</div>
+
+
+
+
+
+
+
+
+
+
+<div id="nav-hamburger" class="js-modal-private modal modal-left modal-md-bottom modal-width-full modal-md-width-medium modal-nav-hamburger modal-nav-main" style="display: none;" data-component="nav-hamburger"   data-url="nav-hamburger">
+				<div class="modal-header no-title">
+												<button class="js-modal-close-private  modal-close " data-target="#nav-hamburger" data-modal-url="nav-hamburger">
+					<svg class="modal-close-icon icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+			</div>
+			<div class="modal-body ">
+				                <div class="nav-list" data-store="navigation" data-component="menu">
+        
+
+	
+				
+			<div class="nav-item" data-component="menu.item">
+			<a class="nav-list-link selected" href="/">Início</a>
+		</div>
+	
+	
+				
+			<div class="nav-item item-with-subitems" data-component="menu.item">
+			<button class="js-modal-open-private nav-list-link " data-target="#nav-panel-id-934594375" data-modal-url="#nav-panel-id-934594375">
+				Produtos
+				<span class="nav-list-arrow">
+					<svg class="icon-inline"><use xlink:href="#chevron"/></svg>
+				</span>
+			</button>
+
+			
+
+
+
+<div id="nav-panel-id-934594375" class="js-modal-private modal modal-right modal-md-bottom modal-width-full modal-md-width-medium modal-nav-hamburger" style="display: none;" data-component="nav-hamburger"   data-url="nav-panel-id-934594375">
+				<div class="modal-header ">
+									<button class="js-modal-close-private modal-close modal-back " data-target="#nav-panel-id-934594375" data-modal-url="nav-panel-id-934594375">
+						<svg class="icon-flip-horizontal modal-close-icon icon-inline "><use xlink:href="#chevron"/></svg>
+					</button>
+																			<button class="js-modal-close-private modal-title " data-target="#nav-panel-id-934594375" data-modal-url="nav-panel-id-934594375">
+							Produtos
+						</button>
+													<button class="js-modal-close-private js-modal-close-all-private modal-close js-close-all-nav-modals" data-target="#nav-panel-id-934594375" data-modal-url="nav-panel-id-934594375">
+					<svg class="modal-close-icon icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+			</div>
+			<div class="modal-body nav-hamburger-body">
+															<div class="nav-item">
+							<a class="nav-list-link " href="https://glitzcosmeticos.lojavirtualnuvem.com.br/produtos/">
+																	Ver todos os produtos
+															</a>
+						</div>
+																
+
+	
+				
+			<div class="nav-item" data-component="menu.item">
+			<a class="nav-list-link " href="https://glitzcosmeticos.lojavirtualnuvem.com.br/linha-niche/">Linha Niche</a>
+		</div>
+	
+	
+				
+			<div class="nav-item" data-component="menu.item">
+			<a class="nav-list-link " href="https://glitzcosmeticos.lojavirtualnuvem.com.br/perfumes-masculinos/">Perfumes Masculinos</a>
+		</div>
+	
+	
+				
+			<div class="nav-item" data-component="menu.item">
+			<a class="nav-list-link " href="https://glitzcosmeticos.lojavirtualnuvem.com.br/perfumes-femininos/">Perfumes Femininos</a>
+		</div>
+	
+	
+				
+			<div class="nav-item" data-component="menu.item">
+			<a class="nav-list-link " href="https://glitzcosmeticos.lojavirtualnuvem.com.br/linha-arabe/">Linha Árabe</a>
+		</div>
+	
+	
+				
+			<div class="nav-item" data-component="menu.item">
+			<a class="nav-list-link " href="https://glitzcosmeticos.lojavirtualnuvem.com.br/compartilhaveis/">Compartilháveis</a>
+		</div>
+																		</div>
+				</div>
+
+		</div>
+	
+	
+				
+			<div class="nav-item" data-component="menu.item">
+			<a class="nav-list-link " href="/contato/">Contato</a>
+		</div>
+	    </div>
+    
+        <div class="nav-secondary">
+                                                                                                        
+                        
+            </div>
+
+        <div class="js-navbars-mobile-mount" style="display: none;"></div>
+    			</div>
+							<div class="modal-footer ">
+					                <div class="nav-panel-account-row" data-store="account-links">
+        <span class="nav-panel-account">
+            <span class="nav-panel-account-links">
+                <svg class="utility-icon icon-inline"><use xlink:href="#user"/></svg>
+                                                    <a href="/account/login/" title="" class="nav-panel-link">Minha conta</a>
+                            </span>
+        </span>
+            </div>
+    				</div>
+				</div>
+	<div class="js-modal-close-private js-modal-overlay-private modal-overlay " data-overlay-id="#nav-hamburger" data-target="#nav-hamburger" data-modal-url="nav-hamburger" style="display: none;"></div>
+
+
+
+
+
+<div id="modal-search" class="js-modal-private modal modal-left modal-md-bottom modal-width-full modal-md-width-medium modal-nav-search" style="display: none;" data-component="modal-search"   data-url="modal-search">
+				<div class="modal-header ">
+																			<span class="modal-title ">Buscar</span>
+													<button class="js-modal-close-private  modal-close " data-target="#modal-search" data-modal-url="modal-search">
+					<svg class="modal-close-icon icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+			</div>
+			<div class="modal-body modal-nav-search-body">
+						
+<div class="search-form-wrap">
+	<form class="js-search-form search-form" action="/search/" method="get">
+		<div class="search-form-field form-group">
+			<input class="js-search-input form-control search-input input_class" autocomplete="off" type="search" name="q" placeholder="Buscar" aria-label="Buscar" />
+			<button type="submit" class="js-search-input-submit search-btn search-submit-btn" value="Buscar" aria-label="Buscar">
+									
+
+<svg class=" icon-inline" style="width: 16px; height: 16px;">
+  <use xlink:href="#search"/>
+</svg>
+							</button>
+							<button type="button" class="js-empty-search search-btn search-empty-btn" aria-label="Buscar" style="display: none;">
+					<svg class="icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+					</div>
+	</form>
+	<div class="js-search-form-suggestions search-suggestions" style="display: none;">
+			</div>
+</div>
+				</div>
+				</div>
+	<div class="js-modal-close-private js-modal-overlay-private modal-overlay " data-overlay-id="#modal-search" data-target="#modal-search" data-modal-url="modal-search" style="display: none;"></div>
+
+
+
+</section>
+      </header>
+      
+
+
+
+                                                            <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="after_header"
+                                                                                            ></div>
+            
+    
+              
+
+
+
+
+
+			
+			<div class="js-alert-add-to-cart-private js-notification-cart notification-cart-container notification-hidden" style="display: none;">
+			<div class="notification">
+				<button class="js-cart-notification-close-private notification-close">
+					<svg class="notification-close-icon icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+				<div class="js-cart-notification-item-private notification-cart-item d-grid grid-auto-1" data-store="cart-notification-item">
+				<div class="notification-cart-image-container mr-3">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+										class="lazyload js-cart-notification-item-image-private notification-cart-image img-absolute-centered-vertically"
+						alt=""
+
+																data-src=""
+												/>
+
+					</div>
+				<div class="notification-info-container ">
+					<div class="notification-info-line">
+						<span class="js-cart-notification-item-name-private"></span>
+						<span class="js-cart-notification-item-variant-container-private" style="display: none;">
+							(<span class="js-cart-notification-item-variant-private"></span>)
+						</span>
+					</div>
+					<div class="notification-info-line">
+						<span>
+							<span class="js-cart-notification-item-quantity-private"></span>
+							<span> x </span>
+						</span>
+						<span class="js-cart-notification-item-price-private"></span>
+						<span class="js-cart-notification-discount-label notification-cart-discount-label" style="display: none;">
+							<span class="js-cart-notification-discount-percentage notification-cart-discount-badge"></span>
+						</span>
+					</div>
+											<div class="notification-cart-success">Adicionado ao carrinho!</div>
+									</div>
+			</div>
+		</div>
+			</div>
+    
+        <main id="MainContent" class="main-content main-container" role="main">
+      <section id="ns-section-hero_custom" class="ns-section section section-custom-container" data-section-id="hero_custom" data-section-type="custom">
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_dynamic_section_hero_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="hero_custom"                data-nubesdk-section-index="1"                            ></div>
+            
+
+
+	
+	
+
+
+
+
+<div
+	class="section-custom section-full-width"
+	data-section-id="hero_custom"
+	style="background-color: transparent;">
+														<div class="custom-section-content d-flex flex-column align-items-start justify-content-center" style="gap: 0px; text-align: left;">
+															
+
+	<div class="code-block block-fill" id="ns-block-hero_block" data-block-id="hero_block" data-block-type="code" data-store="code-block-hero_block">
+		
+<style>
+.glitz-hero-wrapper {
+  position: relative;
+  min-height: 86vh;
+  background: radial-gradient(circle at 80% 20%, #1A363A 0%, #0D1C1E 75%);
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  padding: 70px 0;
+  width: 100%;
+}
+.glitz-hero-glow-1 {
+  position: absolute;
+  top: -140px;
+  left: -140px;
+  width: 450px;
+  height: 450px;
+  background: rgba(45, 88, 92, 0.45);
+  border-radius: 50%;
+  filter: blur(120px);
+  pointer-events: none;
+}
+.glitz-hero-glow-2 {
+  position: absolute;
+  bottom: -100px;
+  right: 60px;
+  width: 400px;
+  height: 400px;
+  background: rgba(197, 168, 128, 0.22);
+  border-radius: 50%;
+  filter: blur(100px);
+  pointer-events: none;
+}
+.glitz-hero-bg-overlay {
+  position: absolute;
+  inset: 0;
+  background-image: url('https://images.unsplash.com/photo-1615634260167-c8cdede054de?w=1600&q=90');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.15;
+  mix-blend-mode: luminosity;
+  pointer-events: none;
+}
+.glitz-hero-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 24px;
+  width: 100%;
+  position: relative;
+  z-index: 10;
+}
+.glitz-hero-grid {
+  display: grid;
+  grid-template-columns: 1.25fr 0.75fr;
+  gap: 48px;
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .glitz-hero-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+}
+.glitz-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 16px;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(8px);
+  margin-bottom: 24px;
+  color: #DFCEB8;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+.glitz-hero-title {
+  font-size: clamp(2.6rem, 5.2vw, 4.8rem);
+  line-height: 1.05;
+  color: #FFFFFF;
+  font-weight: 300;
+  letter-spacing: -0.02em;
+  margin: 0 0 24px 0;
+}
+.glitz-gold-gradient {
+  background: linear-gradient(135deg, #DFCEB8 0%, #C5A880 50%, #EAE3D2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}
+.glitz-hero-subtitle {
+  font-size: clamp(1rem, 1.3vw, 1.15rem);
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.78);
+  max-width: 580px;
+  margin: 0 0 36px 0;
+  font-weight: 300;
+}
+@media (max-width: 991px) {
+  .glitz-hero-subtitle { margin-left: auto; margin-right: auto; }
+}
+.glitz-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 48px;
+}
+@media (max-width: 991px) {
+  .glitz-hero-actions { justify-content: center; }
+}
+.glitz-btn-gold {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: linear-gradient(135deg, #C5A880 0%, #9D7F57 100%);
+  color: #FFFFFF !important;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 16px 32px;
+  border-radius: 9999px;
+  text-decoration: none !important;
+  box-shadow: 0 10px 25px rgba(197, 168, 128, 0.35);
+  transition: all 0.3s ease;
+}
+.glitz-btn-gold:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 15px 30px rgba(197, 168, 128, 0.5);
+  filter: brightness(1.08);
+}
+.glitz-btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(6px);
+  color: #FFFFFF !important;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 16px 28px;
+  border-radius: 9999px;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+}
+.glitz-btn-ghost:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.glitz-hero-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  padding-top: 32px;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  max-width: 520px;
+}
+@media (max-width: 991px) {
+  .glitz-hero-metrics { margin: 0 auto; }
+}
+.glitz-metric-val {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+.glitz-metric-lbl {
+  display: block;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.55);
+  margin-top: 4px;
+}
+.glitz-hero-visual {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.glitz-showcase-glow {
+  position: absolute;
+  inset: -10px;
+  background: radial-gradient(circle, rgba(197, 168, 128, 0.35) 0%, rgba(41, 79, 82, 0.4) 60%, transparent 80%);
+  border-radius: 32px;
+  filter: blur(28px);
+}
+.glitz-glass-card {
+  position: relative;
+  background: rgba(18, 38, 40, 0.75);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 24px;
+  padding: 24px;
+  width: 100%;
+  max-width: 420px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.6);
+  transition: transform 0.5s ease;
+}
+.glitz-glass-card:hover { transform: translateY(-6px); }
+.glitz-bottle-wrapper {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  background: linear-gradient(180deg, #1E3B3E 0%, #122628 100%);
+  border-radius: 16px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.glitz-bottle-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s ease;
+}
+.glitz-glass-card:hover .glitz-bottle-img { transform: scale(1.06); }
+.glitz-bottle-badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  background: rgba(18, 38, 40, 0.85);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #DFCEB8;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  padding: 4px 10px;
+  border-radius: 6px;
+}
+.glitz-glass-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.glitz-perfume-tag {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.6);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.glitz-perfume-title {
+  font-size: 1.4rem;
+  color: #FFFFFF;
+  margin: 2px 0 4px 0;
+  font-weight: 500;
+}
+.glitz-perfume-price {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #DFCEB8;
+}
+.glitz-perfume-old-price {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.4);
+  text-decoration: line-through;
+  margin-left: 6px;
+}
+.glitz-round-cta {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #C5A880 0%, #9D7F57 100%);
+  color: #FFFFFF !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+}
+.glitz-round-cta:hover { transform: scale(1.1); filter: brightness(1.15); }
+</style>
+
+<div class="glitz-hero-wrapper">
+  <div class="glitz-hero-glow-1"></div>
+  <div class="glitz-hero-glow-2"></div>
+  <div class="glitz-hero-bg-overlay"></div>
+  
+  <div class="glitz-hero-container">
+    <div class="glitz-hero-grid">
+      <div class="glitz-hero-content">
+        <div class="glitz-hero-badge">
+          <svg viewBox="0 0 24 24" width="13" height="13" stroke="currentColor" stroke-width="2" fill="none"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <span>ALTA PERFUMARIA & FRAGRÂNCIAS DE NICHO</span>
+        </div>
+
+        <h1 class="glitz-hero-title">
+          Sua <span class="glitz-gold-gradient">Essência</span>,<br />
+          Seu Mais Nobre<br />
+          <span>Momento.</span>
+        </h1>
+
+        <p class="glitz-hero-subtitle">
+          Fragrâncias refinadas e fórmulas de alta concentração criadas para expressar sua autenticidade com projeção elegante e fixação duradoura.
+        </p>
+
+        <div class="glitz-hero-actions">
+          <a href="/produtos" class="glitz-btn-gold">
+            Explorar Todos os Perfumes
+            <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+          </a>
+          <a href="/produtos?ofertas=true" class="glitz-btn-ghost">
+            Ver Ofertas Especiais
+          </a>
+        </div>
+
+        <div class="glitz-hero-metrics">
+          <div class="glitz-metric-item">
+            <span class="glitz-metric-val">+48</span>
+            <span class="glitz-metric-lbl">Fragrâncias Exclusivas</span>
+          </div>
+          <div class="glitz-metric-item">
+            <span class="glitz-metric-val">4.9 ★</span>
+            <span class="glitz-metric-lbl">Avaliação Média</span>
+          </div>
+          <div class="glitz-metric-item">
+            <span class="glitz-metric-val">100%</span>
+            <span class="glitz-metric-lbl">Alta Fixação</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="glitz-hero-visual">
+        <div class="glitz-showcase-glow"></div>
+        <div class="glitz-glass-card">
+          <div class="glitz-bottle-wrapper">
+            <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume-effervescent-100-ml-lab-8-niche-48fc861cd8bf485edb17746455496970-1024-1024.webp" alt="Effervescent 100ml" class="glitz-bottle-img" />
+            <div class="glitz-bottle-badge">LAB 8 NICHE</div>
+          </div>
+          <div class="glitz-glass-footer">
+            <div>
+              <span class="glitz-perfume-tag">Fragrância em Alta</span>
+              <h3 class="glitz-perfume-title">Effervescent 100ml</h3>
+              <p class="glitz-perfume-price">R$ 177,00 <span class="glitz-perfume-old-price">R$ 188,00</span></p>
+            </div>
+            <a href="/produtos" class="glitz-round-cta" aria-label="Ver perfume">
+              <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  function injectGlitzHeaderLinks() {
+    const navUl = document.querySelector('.js-nav-desktop-list');
+    if (navUl) {
+      const navItems = [
+        { name: 'INÍCIO', url: '/', key: 'home' },
+        { name: 'TODOS OS PERFUMES', url: '/produtos', key: 'all' },
+        { name: 'LINHA NICHE', url: '/produtos?categoria=niche', key: 'niche' },
+        { name: 'LINHA ÁRABE', url: '/produtos?categoria=arabe', key: 'arabe' },
+        { name: 'MASCULINOS', url: '/produtos?categoria=masculinos', key: 'masculinos' },
+        { name: 'FEMININOS', url: '/produtos?categoria=femininos', key: 'femininos' },
+        { name: 'COMPARTILHÁVEIS', url: '/produtos?categoria=compartilhaveis', key: 'compartilhaveis' },
+        { name: 'OFERTAS', url: '/produtos?ofertas=true', key: 'ofertas', accent: true }
+      ];
+
+      const currentParams = new URLSearchParams(window.location.search);
+      const activeCat = currentParams.get('categoria') || (currentParams.get('ofertas') === 'true' ? 'ofertas' : '');
+
+      navUl.innerHTML = navItems.map(item => {
+        const isHome = window.location.pathname === '/' || window.location.pathname === '';
+        const isActive = (item.key === 'home' && isHome) || (item.key === activeCat && !isHome) || (item.key === 'all' && !activeCat && !isHome && window.location.pathname.includes('/produtos'));
+        const color = item.accent ? '#C84B31' : (isActive ? '#C5A880' : '#1D3D40');
+        const borderBottom = isActive ? 'border-bottom: 2px solid #C5A880;' : '';
+
+        return `
+          <li class="nav-item nav-main-item" style="margin: 0 12px;">
+            <a href="${item.url}" class="nav-list-link glitz-header-link" data-key="${item.key}" style="
+              font-family: 'Plus Jakarta Sans', sans-serif !important;
+              font-size: 11px !important;
+              font-weight: 700 !important;
+              letter-spacing: 0.14em !important;
+              text-transform: uppercase !important;
+              color: ${color} !important;
+              text-decoration: none !important;
+              padding-bottom: 4px;
+              ${borderBottom}
+              transition: all 0.2s ease;
+            " onmouseover="this.style.color='#C5A880'" onmouseout="this.style.color='${color}'">
+              ${item.name}
+            </a>
+          </li>
+        `;
+      }).join('');
+
+      const navContainer = document.querySelector('.js-nav-desktop-container');
+      if (navContainer) {
+        navContainer.style.visibility = 'visible';
+        navContainer.style.height = 'auto';
+        navContainer.style.display = 'block';
+      }
+    }
+
+    const mobileUl = document.querySelector('.nav-categories-mobile') || document.querySelector('.js-mobile-nav-list');
+    if (mobileUl && !mobileUl.getAttribute('data-glitz-nav-done')) {
+      mobileUl.setAttribute('data-glitz-nav-done', 'true');
+      const mobileItems = [
+        { name: 'Início', url: '/' },
+        { name: 'Todos os Perfumes', url: '/produtos' },
+        { name: 'Linha Niche', url: '/produtos?categoria=niche' },
+        { name: 'Linha Árabe', url: '/produtos?categoria=arabe' },
+        { name: 'Perfumes Masculinos', url: '/produtos?categoria=masculinos' },
+        { name: 'Perfumes Femininos', url: '/produtos?categoria=femininos' },
+        { name: 'Compartilháveis', url: '/produtos?categoria=compartilhaveis' },
+        { name: 'Ofertas da Semana', url: '/produtos?ofertas=true', accent: true }
+      ];
+      mobileUl.innerHTML = mobileItems.map(item => `
+        <li class="nav-item list-item" style="padding: 12px 16px; border-bottom: 1px solid rgba(0,0,0,0.05);">
+          <a href="${item.url}" class="nav-list-link" style="font-weight: 700; color: ${item.accent ? '#C84B31' : '#1D3D40'}; font-size: 13px;">
+            ${item.name}
+          </a>
+        </li>
+      `).join('');
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', injectGlitzHeaderLinks);
+  } else {
+    injectGlitzHeaderLinks();
+  }
+  setTimeout(injectGlitzHeaderLinks, 100);
+  setTimeout(injectGlitzHeaderLinks, 500);
+  setTimeout(injectGlitzHeaderLinks, 1200);
+})();
+</script>
+
+
+<script>
+window.glitzAddToCart = function(nuvemId, handle, btnEl) {
+  if (!nuvemId) {
+    window.location.href = '/produtos/' + handle;
+    return;
+  }
+  if (btnEl) {
+    btnEl.innerHTML = '<span>Adicionando...</span>';
+    btnEl.style.opacity = '0.7';
+  }
+
+  const form = document.createElement('form');
+  form.method = 'POST';
+  form.action = '/comprar';
+
+  const input = document.createElement('input');
+  input.type = 'hidden';
+  input.name = 'add_to_cart';
+  input.value = nuvemId;
+  form.appendChild(input);
+
+  document.body.appendChild(form);
+  form.submit();
+};
+</script>
+
+	</div>
+
+												</div>
+	</div>
+
+
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="after_dynamic_section_hero_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="hero_custom"                data-nubesdk-section-index="1"                            ></div>
+            
+</section>
+<section id="ns-section-categories_custom" class="ns-section section section-custom-container" data-section-id="categories_custom" data-section-type="custom">
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_dynamic_section_categories_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="categories_custom"                data-nubesdk-section-index="2"                            ></div>
+            
+
+
+	
+	
+
+
+
+
+<div
+	class="section-custom section-full-width"
+	data-section-id="categories_custom"
+	style="background-color: transparent;">
+														<div class="custom-section-content d-flex flex-column align-items-start justify-content-center" style="gap: 0px; text-align: left;">
+															
+
+	<div class="code-block block-fill" id="ns-block-categories_block" data-block-id="categories_block" data-block-type="code" data-store="code-block-categories_block">
+		
+<style>
+.glitz-cat-section {
+  padding: 90px 0;
+  background: linear-gradient(180deg, #F9F9F6 0%, #FFFFFF 50%, #F9F9F6 100%);
+  border-top: 1px solid #E5EAE9;
+  border-bottom: 1px solid #E5EAE9;
+  width: 100%;
+}
+.glitz-section-header-center {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto 50px auto;
+}
+.glitz-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+  color: #C5A880;
+}
+.glitz-line { width: 24px; height: 1px; background: #C5A880; }
+.glitz-eyebrow-text {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+.glitz-heading {
+  font-size: clamp(2.2rem, 3.8vw, 3.2rem);
+  color: #182324;
+  font-weight: 300;
+  line-height: 1.15;
+  margin: 0;
+}
+.glitz-heading-em {
+  font-style: normal;
+  font-weight: 600;
+  color: #1D3D40;
+}
+.glitz-subheading {
+  font-size: 15px;
+  color: #66706F;
+  line-height: 1.6;
+  margin-top: 12px;
+  font-weight: 300;
+}
+.glitz-cat-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+}
+@media (max-width: 1024px) {
+  .glitz-cat-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 640px) {
+  .glitz-cat-grid { grid-template-columns: repeat(2, 1fr); }
+}
+.glitz-cat-card {
+  position: relative;
+  aspect-ratio: 3 / 4;
+  border-radius: 16px;
+  overflow: hidden;
+  text-decoration: none !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+  transition: all 0.4s ease;
+}
+.glitz-cat-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 35px rgba(0,0,0,0.14);
+}
+.glitz-cat-img-wrapper { position: absolute; inset: 0; }
+.glitz-cat-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.8s ease;
+}
+.glitz-cat-card:hover .glitz-cat-img { transform: scale(1.08); }
+.glitz-cat-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(13,28,30,0.1) 0%, rgba(13,28,30,0.85) 100%);
+}
+.glitz-cat-content { position: relative; z-index: 10; }
+.glitz-cat-count {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #DFCEB8;
+  display: block;
+  margin-bottom: 4px;
+}
+.glitz-cat-name {
+  font-size: 1.35rem;
+  color: #FFFFFF;
+  margin: 0 0 4px 0;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.glitz-cat-desc {
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.4;
+  margin: 0 0 12px 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.glitz-cat-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  transition: gap 0.2s ease;
+}
+.glitz-cat-card:hover .glitz-cat-link {
+  gap: 10px;
+  color: #DFCEB8;
+}
+</style>
+
+<div class="glitz-cat-section">
+  <div class="glitz-container">
+    <div class="glitz-section-header-center">
+      <div class="glitz-eyebrow">
+        <span class="glitz-line"></span>
+        <span class="glitz-eyebrow-text">CATEGORIAS EXCLUSIVAS</span>
+        <span class="glitz-line"></span>
+      </div>
+      <h2 class="glitz-heading">Encontre a Sua <span class="glitz-heading-em">Essência</span></h2>
+      <p class="glitz-subheading">Coleções desenvolvidas com matérias-primas nobres, fixação extrema e identidade singular.</p>
+    </div>
+    <div class="glitz-cat-grid">
+      
+  <a href="/produtos?categoria=niche" class="glitz-cat-card">
+    <div class="glitz-cat-img-wrapper">
+      <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume-effervescent-100-ml-lab-8-niche-48fc861cd8bf485edb17746455496970-1024-1024.webp" alt="Linha Niche" class="glitz-cat-img" loading="lazy" />
+      <div class="glitz-cat-overlay"></div>
+    </div>
+    <div class="glitz-cat-content">
+      <span class="glitz-cat-count">6 perfumes</span>
+      <h3 class="glitz-cat-name">Linha Niche</h3>
+      <p class="glitz-cat-desc">Criações exclusivas com matérias-primas raras e assinatura olfativa única</p>
+      <div class="glitz-cat-link">
+        <span>Explorar</span>
+        <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </div>
+    </div>
+  </a>
+
+  <a href="/produtos?categoria=arabe" class="glitz-cat-card">
+    <div class="glitz-cat-img-wrapper">
+      <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_oudpremium-cb0e47e95f66fdf28817615772849390-1024-1024.webp" alt="Linha Árabe" class="glitz-cat-img" loading="lazy" />
+      <div class="glitz-cat-overlay"></div>
+    </div>
+    <div class="glitz-cat-content">
+      <span class="glitz-cat-count">7 perfumes</span>
+      <h3 class="glitz-cat-name">Linha Árabe</h3>
+      <p class="glitz-cat-desc">Fragrâncias opulentas com Oud, especiarias orientais e fixação extrema</p>
+      <div class="glitz-cat-link">
+        <span>Explorar</span>
+        <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </div>
+    </div>
+  </a>
+
+  <a href="/produtos?categoria=masculinos" class="glitz-cat-card">
+    <div class="glitz-cat-img-wrapper">
+      <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_jobsintense-d85a691a7717ad37ad17615773177171-1024-1024.webp" alt="Perfumes Masculinos" class="glitz-cat-img" loading="lazy" />
+      <div class="glitz-cat-overlay"></div>
+    </div>
+    <div class="glitz-cat-content">
+      <span class="glitz-cat-count">18 perfumes</span>
+      <h3 class="glitz-cat-name">Perfumes Masculinos</h3>
+      <p class="glitz-cat-desc">Presença marcante, acordes amadeirados e aromáticos de alta projeção</p>
+      <div class="glitz-cat-link">
+        <span>Explorar</span>
+        <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </div>
+    </div>
+  </a>
+
+  <a href="/produtos?categoria=femininos" class="glitz-cat-card">
+    <div class="glitz-cat-img-wrapper">
+      <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume-feminino-diamant-lab8-1770acae0efdb25e1d17761132487440-1024-1024.webp" alt="Perfumes Femininos" class="glitz-cat-img" loading="lazy" />
+      <div class="glitz-cat-overlay"></div>
+    </div>
+    <div class="glitz-cat-content">
+      <span class="glitz-cat-count">12 perfumes</span>
+      <h3 class="glitz-cat-name">Perfumes Femininos</h3>
+      <p class="glitz-cat-desc">Florais envolventes, orientais adocicados e elegância magnética</p>
+      <div class="glitz-cat-link">
+        <span>Explorar</span>
+        <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </div>
+    </div>
+  </a>
+
+  <a href="/produtos?categoria=compartilhaveis" class="glitz-cat-card">
+    <div class="glitz-cat-img-wrapper">
+      <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/effervescent_summer_lab8-4cec35715a97fffda917728115412886-1024-1024.webp" alt="Compartilháveis" class="glitz-cat-img" loading="lazy" />
+      <div class="glitz-cat-overlay"></div>
+    </div>
+    <div class="glitz-cat-content">
+      <span class="glitz-cat-count">5 perfumes</span>
+      <h3 class="glitz-cat-name">Compartilháveis</h3>
+      <p class="glitz-cat-desc">Fragrâncias versáteis, cítricas e modernas para todas as identidades</p>
+      <div class="glitz-cat-link">
+        <span>Explorar</span>
+        <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </div>
+    </div>
+  </a>
+
+    </div>
+  </div>
+</div>
+
+	</div>
+
+												</div>
+	</div>
+
+
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="after_dynamic_section_categories_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="categories_custom"                data-nubesdk-section-index="2"                            ></div>
+            
+</section>
+<section id="ns-section-bestsellers_custom" class="ns-section section section-custom-container" data-section-id="bestsellers_custom" data-section-type="custom">
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_dynamic_section_bestsellers_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="bestsellers_custom"                data-nubesdk-section-index="3"                            ></div>
+            
+
+
+	
+	
+
+
+
+
+<div
+	class="section-custom section-full-width"
+	data-section-id="bestsellers_custom"
+	style="background-color: transparent;">
+														<div class="custom-section-content d-flex flex-column align-items-start justify-content-center" style="gap: 0px; text-align: left;">
+															
+
+	<div class="code-block block-fill" id="ns-block-bestsellers_block" data-block-id="bestsellers_block" data-block-type="code" data-store="code-block-bestsellers_block">
+		
+<style>
+.glitz-prods-section {
+  padding: 90px 0;
+  background: #FFFFFF;
+  width: 100%;
+}
+.glitz-section-header-flex {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  gap: 20px;
+}
+@media (max-width: 768px) {
+  .glitz-section-header-flex { flex-direction: column; align-items: flex-start; }
+}
+.glitz-view-all-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #1D3D40;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+}
+.glitz-view-all-link:hover { color: #C5A880; transform: translateX(3px); }
+.glitz-prods-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+@media (max-width: 1024px) {
+  .glitz-prods-grid { grid-template-columns: repeat(3, 1fr); gap: 16px; }
+}
+@media (max-width: 768px) {
+  .glitz-prods-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+}
+.glitz-prod-card {
+  background: #FFFFFF;
+  border-radius: 16px;
+  border: 1px solid #E5EAE9;
+  overflow: hidden;
+  transition: all 0.35s ease;
+  display: flex;
+  flex-direction: column;
+}
+.glitz-prod-card:hover {
+  transform: translateY(-6px);
+  border-color: #DFCEB8;
+  box-shadow: 0 16px 32px rgba(0,0,0,0.08);
+}
+.glitz-prod-media {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  background: #F8F9FA;
+  overflow: hidden;
+}
+.glitz-prod-img-link { display: block; width: 100%; height: 100%; }
+.glitz-prod-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s ease;
+}
+.glitz-prod-card:hover .glitz-prod-img { transform: scale(1.06); }
+.glitz-prod-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: #1D3D40;
+  color: #FFFFFF;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 4px;
+  z-index: 10;
+}
+.glitz-badge-offer { background: #C84B31 !important; }
+.glitz-prod-actions-hover {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 12px;
+  background: linear-gradient(180deg, transparent 0%, rgba(13,28,30,0.85) 100%);
+  transform: translateY(100%);
+  transition: transform 0.3s ease;
+  display: flex;
+  justify-content: center;
+}
+.glitz-prod-card:hover .glitz-prod-actions-hover { transform: translateY(0); }
+.glitz-prod-action-btn {
+  background: #C5A880;
+  color: #FFFFFF !important;
+  text-decoration: none !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 9999px;
+  width: 100%;
+  text-align: center;
+  transition: all 0.2s ease;
+}
+.glitz-prod-action-btn:hover { background: #9D7F57; }
+.glitz-prod-details {
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+.glitz-prod-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+.glitz-prod-category {
+  font-size: 10px;
+  color: #66706F;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+.glitz-prod-rating { font-size: 11px; color: #C5A880; font-weight: 700; }
+.glitz-prod-name {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 0 0 4px 0;
+}
+.glitz-prod-name a {
+  color: #182324 !important;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+}
+.glitz-prod-name a:hover { color: #C5A880; }
+.glitz-prod-family {
+  font-size: 11px;
+  color: #66706F;
+  margin: 0 0 12px 0;
+  font-weight: 400;
+}
+.glitz-prod-price-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-top: auto;
+}
+.glitz-prod-price {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #1D3D40;
+}
+.glitz-prod-old-price {
+  font-size: 0.9rem;
+  color: #A0A5A5;
+  text-decoration: line-through;
+}
+.glitz-prod-installments {
+  font-size: 11px;
+  color: #66706F;
+  margin-top: 4px;
+}
+</style>
+
+<div class="glitz-prods-section">
+  <div class="glitz-container">
+    <div class="glitz-section-header-flex">
+      <div>
+        <div class="glitz-eyebrow">
+          <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="2" fill="none"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <span class="glitz-eyebrow-text">CURADORIA ESPECIAL</span>
+        </div>
+        <h2 class="glitz-heading">Mais <span class="glitz-heading-em">Desejados</span></h2>
+      </div>
+      <a href="/produtos" class="glitz-view-all-link">
+        Ver Toda a Seleção
+        <svg viewBox="0 0 24 24" width="14" height="14" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </a>
+    </div>
+    <div class="glitz-prods-grid">
+      
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge">OFERTA</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_miyako-119ace3f158cfa606917615773346321-1024-1024.webp" alt="Eau de Miyako" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Adicionar à Sacola</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Perfumes Masculinos</span>
+        <span class="glitz-prod-rating">★ 5</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Eau de Miyako</a></h3>
+      <p class="glitz-prod-family">Aquático Cítrico Amadeirado – Masculino</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 147,00</span>
+        <span class="glitz-prod-old-price">R$ 158,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 24,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge">OFERTA</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_jobsintense-d85a691a7717ad37ad17615773177171-1024-1024.webp" alt="Jobs Intense" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Adicionar à Sacola</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Perfumes Masculinos</span>
+        <span class="glitz-prod-rating">★ 4.9</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Jobs Intense</a></h3>
+      <p class="glitz-prod-family">Amadeirado Especiado – Masculino</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 147,00</span>
+        <span class="glitz-prod-old-price">R$ 158,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 24,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge">OFERTA</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/effervescent_summer_lab8-4cec35715a97fffda917728115412886-1024-1024.webp" alt="Effervescent Summer" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Adicionar à Sacola</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Linha Niche</span>
+        <span class="glitz-prod-rating">★ 5</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Effervescent Summer</a></h3>
+      <p class="glitz-prod-family">Cítrico Frutado Gourmand – Compartilhável</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 177,00</span>
+        <span class="glitz-prod-old-price">R$ 188,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 29,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge">OFERTA</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_codigo8-4e413f20b541b9d09b17615771463744-1024-1024.webp" alt="Código 8" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Adicionar à Sacola</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Perfumes Masculinos</span>
+        <span class="glitz-prod-rating">★ 4.9</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Código 8</a></h3>
+      <p class="glitz-prod-family">Amadeirado Aromático – Masculino</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 147,00</span>
+        <span class="glitz-prod-old-price">R$ 158,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 24,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge">OFERTA</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_allumer-8c27fc8e06afa6575017615774106237-1024-1024.webp" alt="Allumer" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Adicionar à Sacola</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Perfumes Masculinos</span>
+        <span class="glitz-prod-rating">★ 5</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Allumer</a></h3>
+      <p class="glitz-prod-family">Amadeirado Especiado – Compartilhável</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 147,00</span>
+        <span class="glitz-prod-old-price">R$ 158,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 24,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge">OFERTA</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_deepventus-a23fbe9bddbd530d0017615773534468-1024-1024.webp" alt="Deep Ventus" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Adicionar à Sacola</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Linha Niche</span>
+        <span class="glitz-prod-rating">★ 4.9</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Deep Ventus</a></h3>
+      <p class="glitz-prod-family">Chipre Frutado – Compartilhável</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 147,00</span>
+        <span class="glitz-prod-old-price">R$ 158,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 24,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge">OFERTA</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_dom8-6484fc33ada809ee8417615770877333-1024-1024.webp" alt="DOM 8" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Adicionar à Sacola</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Perfumes Masculinos</span>
+        <span class="glitz-prod-rating">★ 4.9</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">DOM 8</a></h3>
+      <p class="glitz-prod-family">Oriental Masculino – Masculino</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 147,00</span>
+        <span class="glitz-prod-old-price">R$ 158,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 24,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge">OFERTA</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_bullet-dd6c778471433253e117615773920957-1024-1024.webp" alt="Bullet" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Adicionar à Sacola</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Perfumes Masculinos</span>
+        <span class="glitz-prod-rating">★ 4.8</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Bullet</a></h3>
+      <p class="glitz-prod-family">Amadeirado Especiado – Masculino</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 147,00</span>
+        <span class="glitz-prod-old-price">R$ 158,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 24,50 sem juros</div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+</div>
+
+	</div>
+
+												</div>
+	</div>
+
+
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="after_dynamic_section_bestsellers_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="bestsellers_custom"                data-nubesdk-section-index="3"                            ></div>
+            
+</section>
+<section id="ns-section-spotlight_custom" class="ns-section section section-custom-container" data-section-id="spotlight_custom" data-section-type="custom">
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_dynamic_section_spotlight_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="spotlight_custom"                data-nubesdk-section-index="4"                            ></div>
+            
+
+
+	
+	
+
+
+
+
+<div
+	class="section-custom section-full-width"
+	data-section-id="spotlight_custom"
+	style="background-color: transparent;">
+														<div class="custom-section-content d-flex flex-column align-items-start justify-content-center" style="gap: 0px; text-align: left;">
+															
+
+	<div class="code-block block-fill" id="ns-block-spotlight_block" data-block-id="spotlight_block" data-block-type="code" data-store="code-block-spotlight_block">
+		
+<style>
+.glitz-spotlight-wrapper {
+  position: relative;
+  background: radial-gradient(circle at 20% 80%, #1A363A 0%, #0D1C1E 75%);
+  padding: 95px 0;
+  overflow: hidden;
+  color: #FFFFFF;
+  width: 100%;
+}
+.glitz-spotlight-glow-1 {
+  position: absolute;
+  top: 0;
+  right: 25%;
+  width: 450px;
+  height: 450px;
+  background: rgba(197, 168, 128, 0.18);
+  border-radius: 50%;
+  filter: blur(120px);
+  pointer-events: none;
+}
+.glitz-spotlight-glow-2 {
+  position: absolute;
+  bottom: 0;
+  left: 5%;
+  width: 400px;
+  height: 400px;
+  background: rgba(45, 88, 92, 0.35);
+  border-radius: 50%;
+  filter: blur(100px);
+  pointer-events: none;
+}
+.glitz-spotlight-grid {
+  display: grid;
+  grid-template-columns: 1.25fr 0.75fr;
+  gap: 48px;
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .glitz-spotlight-grid { grid-template-columns: 1fr; text-align: center; }
+}
+.glitz-spotlight-title {
+  font-size: clamp(2.4rem, 4.5vw, 4rem);
+  font-weight: 300;
+  line-height: 1.08;
+  color: #FFFFFF;
+  margin: 16px 0 20px 0;
+}
+.glitz-spotlight-sub {
+  font-size: 16px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.75);
+  max-width: 520px;
+  margin-bottom: 36px;
+  font-weight: 300;
+}
+@media (max-width: 991px) {
+  .glitz-spotlight-sub { margin-left: auto; margin-right: auto; }
+}
+.glitz-spotlight-visual { display: flex; justify-content: center; }
+.glitz-spotlight-card {
+  background: rgba(18, 38, 40, 0.75);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 24px;
+  padding: 16px;
+  width: 100%;
+  max-width: 380px;
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.5);
+}
+.glitz-spotlight-img {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+  border-radius: 16px;
+}
+.glitz-spotlight-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 8px 8px 8px;
+}
+.glitz-spotlight-tag {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  color: #DFCEB8;
+  display: block;
+}
+.glitz-spotlight-card-title {
+  font-size: 1.25rem;
+  color: #FFFFFF;
+  margin: 2px 0 0 0;
+  font-weight: 600;
+}
+.glitz-spotlight-card-price {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #FFFFFF;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 6px 14px;
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+</style>
+
+<div class="glitz-spotlight-wrapper">
+  <div class="glitz-spotlight-glow-1"></div>
+  <div class="glitz-spotlight-glow-2"></div>
+  <div class="glitz-container">
+    <div class="glitz-spotlight-grid">
+      <div class="glitz-spotlight-content">
+        <div class="glitz-hero-badge">
+          <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="2" fill="none"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <span>ALTA PERFUMARIA GLITZ</span>
+        </div>
+        <h2 class="glitz-spotlight-title">
+          A Fragrância Ideal<br />
+          <span class="glitz-gold-gradient">Transforma Momentos</span><br />
+          em Histórias.
+        </h2>
+        <p class="glitz-spotlight-sub">
+          Descubra perfumes envolventes criados por perfumistas renomados com essências nobres, acordes de Oud e fixação arrebatadora.
+        </p>
+        <div class="glitz-hero-actions">
+          <a href="/produtos" class="glitz-btn-gold">
+            Conhecer a Coleção
+            <svg viewBox="0 0 24 24" width="14" height="14" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+          </a>
+          <a href="/produtos?categoria=arabe" class="glitz-btn-ghost">
+            Explorar Linha Árabe
+          </a>
+        </div>
+      </div>
+      <div class="glitz-spotlight-visual">
+        <div class="glitz-spotlight-card">
+          <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_oudpremium-cb0e47e95f66fdf28817615772849390-1024-1024.webp" alt="Oud Premium 100ml" class="glitz-spotlight-img" />
+          <div class="glitz-spotlight-info">
+            <div>
+              <span class="glitz-spotlight-tag">LINHA ÁRABE</span>
+              <h4 class="glitz-spotlight-card-title">Oud Premium 100ml</h4>
+            </div>
+            <span class="glitz-spotlight-card-price">R$ 177,00</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+	</div>
+
+												</div>
+	</div>
+
+
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="after_dynamic_section_spotlight_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="spotlight_custom"                data-nubesdk-section-index="4"                            ></div>
+            
+</section>
+<section id="ns-section-offers_custom" class="ns-section section section-custom-container" data-section-id="offers_custom" data-section-type="custom">
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_dynamic_section_offers_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="offers_custom"                data-nubesdk-section-index="5"                            ></div>
+            
+
+
+	
+	
+
+
+
+
+<div
+	class="section-custom section-full-width"
+	data-section-id="offers_custom"
+	style="background-color: transparent;">
+														<div class="custom-section-content d-flex flex-column align-items-start justify-content-center" style="gap: 0px; text-align: left;">
+															
+
+	<div class="code-block block-fill" id="ns-block-offers_block" data-block-id="offers_block" data-block-type="code" data-store="code-block-offers_block">
+		
+<style>
+.glitz-offers-section {
+  padding: 90px 0;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F9F9F6 50%, #FFFFFF 100%);
+  border-top: 1px solid #E5EAE9;
+  border-bottom: 1px solid #E5EAE9;
+  width: 100%;
+}
+</style>
+
+<div class="glitz-offers-section">
+  <div class="glitz-container">
+    <div class="glitz-section-header-flex">
+      <div>
+        <div class="glitz-eyebrow">
+          <span class="glitz-eyebrow-text" style="color: #C84B31;">PREÇOS ESPECIAIS</span>
+        </div>
+        <h2 class="glitz-heading">Ofertas da <span class="glitz-heading-em">Semana</span></h2>
+        <p class="glitz-subheading" style="margin-top: 4px;">Suas assinaturas olfativas preferidas com condições exclusivas.</p>
+      </div>
+      <a href="/produtos?ofertas=true" class="glitz-view-all-link" style="color: #C84B31;">
+        Ver Todas as Ofertas
+        <svg viewBox="0 0 24 24" width="14" height="14" stroke="currentColor" stroke-width="2" fill="none"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+      </a>
+    </div>
+    <div class="glitz-prods-grid" style="grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));">
+      
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge glitz-badge-offer">OFERTA ESPECIAL</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume-effervescent-100-ml-lab-8-niche-48fc861cd8bf485edb17746455496970-1024-1024.webp" alt="Effervescent" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Aproveitar Oferta</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Linha Niche</span>
+        <span class="glitz-prod-rating">★ 4.7</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Effervescent</a></h3>
+      <p class="glitz-prod-family">Cítrico Amadeirado Ambarado – Compartilhável</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 177,00</span>
+        <span class="glitz-prod-old-price">R$ 188,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 29,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge glitz-badge-offer">OFERTA ESPECIAL</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_miyako-119ace3f158cfa606917615773346321-1024-1024.webp" alt="Eau de Miyako" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Aproveitar Oferta</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Perfumes Masculinos</span>
+        <span class="glitz-prod-rating">★ 5</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Eau de Miyako</a></h3>
+      <p class="glitz-prod-family">Aquático Cítrico Amadeirado – Masculino</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 147,00</span>
+        <span class="glitz-prod-old-price">R$ 158,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 24,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge glitz-badge-offer">OFERTA ESPECIAL</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/perfume_lab8_jobsintense-d85a691a7717ad37ad17615773177171-1024-1024.webp" alt="Jobs Intense" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Aproveitar Oferta</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Perfumes Masculinos</span>
+        <span class="glitz-prod-rating">★ 4.9</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Jobs Intense</a></h3>
+      <p class="glitz-prod-family">Amadeirado Especiado – Masculino</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 147,00</span>
+        <span class="glitz-prod-old-price">R$ 158,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 24,50 sem juros</div>
+    </div>
+  </div>
+
+  <div class="glitz-prod-card">
+    <div class="glitz-prod-media">
+      <span class="glitz-prod-badge glitz-badge-offer">OFERTA ESPECIAL</span>
+      <a href="/produtos" class="glitz-prod-img-link">
+        <img src="https://acdn-us.mitiendanube.com/stores/003/165/134/products/effervescent_summer_lab8-4cec35715a97fffda917728115412886-1024-1024.webp" alt="Effervescent Summer" class="glitz-prod-img" loading="lazy" />
+      </a>
+      <div class="glitz-prod-actions-hover">
+        <a href="/produtos" class="glitz-prod-action-btn">Aproveitar Oferta</a>
+      </div>
+    </div>
+    <div class="glitz-prod-details">
+      <div class="glitz-prod-meta">
+        <span class="glitz-prod-category">Linha Niche</span>
+        <span class="glitz-prod-rating">★ 5</span>
+      </div>
+      <h3 class="glitz-prod-name"><a href="/produtos">Effervescent Summer</a></h3>
+      <p class="glitz-prod-family">Cítrico Frutado Gourmand – Compartilhável</p>
+      <div class="glitz-prod-price-row">
+        <span class="glitz-prod-price">R$ 177,00</span>
+        <span class="glitz-prod-old-price">R$ 188,00</span>
+      </div>
+      <div class="glitz-prod-installments">6x de R$ 29,50 sem juros</div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+</div>
+
+	</div>
+
+												</div>
+	</div>
+
+
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="after_dynamic_section_offers_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="offers_custom"                data-nubesdk-section-index="5"                            ></div>
+            
+</section>
+<section id="ns-section-benefits_custom" class="ns-section section section-custom-container" data-section-id="benefits_custom" data-section-type="custom">
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_dynamic_section_benefits_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="benefits_custom"                data-nubesdk-section-index="6"                            ></div>
+            
+
+
+	
+	
+
+
+
+
+<div
+	class="section-custom section-full-width"
+	data-section-id="benefits_custom"
+	style="background-color: transparent;">
+														<div class="custom-section-content d-flex flex-column align-items-start justify-content-center" style="gap: 0px; text-align: left;">
+															
+
+	<div class="code-block block-fill" id="ns-block-benefits_block" data-block-id="benefits_block" data-block-type="code" data-store="code-block-benefits_block">
+		
+<style>
+.glitz-benefits-section {
+  padding: 85px 0;
+  background: #FDFDFB;
+  width: 100%;
+}
+.glitz-benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+@media (max-width: 1024px) {
+  .glitz-benefits-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 640px) {
+  .glitz-benefits-grid { grid-template-columns: 1fr; }
+}
+.glitz-benefit-card {
+  background: #FFFFFF;
+  border: 1px solid #E5EAE9;
+  border-radius: 16px;
+  padding: 28px;
+  transition: all 0.3s ease;
+}
+.glitz-benefit-card:hover {
+  transform: translateY(-4px);
+  border-color: #DFCEB8;
+  box-shadow: 0 12px 24px rgba(0,0,0,0.06);
+}
+.glitz-benefit-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
+  background: #F2F6F5;
+  color: #1D3D40;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+  transition: all 0.3s ease;
+}
+.glitz-benefit-card:hover .glitz-benefit-icon {
+  background: #1D3D40;
+  color: #DFCEB8;
+}
+.glitz-benefit-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #182324;
+  margin: 0 0 6px 0;
+}
+.glitz-benefit-desc {
+  font-size: 13px;
+  color: #66706F;
+  line-height: 1.5;
+  margin: 0;
+  font-weight: 300;
+}
+</style>
+
+<div class="glitz-benefits-section">
+  <div class="glitz-container">
+    <div class="glitz-section-header-center">
+      <div class="glitz-eyebrow">
+        <span class="glitz-line"></span>
+        <span class="glitz-eyebrow-text">DIFERENCIAIS EXCLUSIVOS</span>
+        <span class="glitz-line"></span>
+      </div>
+      <h2 class="glitz-heading">O Padrão <span class="glitz-heading-em">Glitz</span> de Atendimento</h2>
+    </div>
+    <div class="glitz-benefits-grid">
+      <div class="glitz-benefit-card">
+        <div class="glitz-benefit-icon">
+          <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><rect x="1" y="3" width="15" height="13"></rect><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></svg>
+        </div>
+        <h3 class="glitz-benefit-title">Entrega Rápida & Segura</h3>
+        <p class="glitz-benefit-desc">Despacho ágil com rastreio em tempo real para todo o Brasil.</p>
+      </div>
+
+      <div class="glitz-benefit-card">
+        <div class="glitz-benefit-icon">
+          <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+        </div>
+        <h3 class="glitz-benefit-title">Produtos 100% Originais</h3>
+        <p class="glitz-benefit-desc">Garantia de autenticidade direta dos fabricantes e importadores oficiais.</p>
+      </div>
+
+      <div class="glitz-benefit-card">
+        <div class="glitz-benefit-icon">
+          <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+        </div>
+        <h3 class="glitz-benefit-title">Curadoria de Excelência</h3>
+        <p class="glitz-benefit-desc">Apenas fragrâncias selecionadas com as melhores notas e alta fixação.</p>
+      </div>
+
+      <div class="glitz-benefit-card">
+        <div class="glitz-benefit-icon">
+          <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none"><path d="M3 18v-6a9 9 0 0 1 18 0v6"></path><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path></svg>
+        </div>
+        <h3 class="glitz-benefit-title">Atendimento Personalizado</h3>
+        <p class="glitz-benefit-desc">Consultores olfativos prontos para ajudar você a encontrar o perfume perfeito.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+	</div>
+
+												</div>
+	</div>
+
+
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="after_dynamic_section_benefits_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="benefits_custom"                data-nubesdk-section-index="6"                            ></div>
+            
+</section>
+<section id="ns-section-newsletter_custom" class="ns-section section section-custom-container" data-section-id="newsletter_custom" data-section-type="custom">
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_dynamic_section_newsletter_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="newsletter_custom"                data-nubesdk-section-index="7"                            ></div>
+            
+
+
+	
+	
+
+
+
+
+<div
+	class="section-custom section-full-width"
+	data-section-id="newsletter_custom"
+	style="background-color: transparent;">
+														<div class="custom-section-content d-flex flex-column align-items-start justify-content-center" style="gap: 0px; text-align: left;">
+															
+
+	<div class="code-block block-fill" id="ns-block-newsletter_block" data-block-id="newsletter_block" data-block-type="code" data-store="code-block-newsletter_block">
+		
+<style>
+.glitz-newsletter-wrapper {
+  background: radial-gradient(circle at center, #1A363A 0%, #0D1C1E 100%);
+  padding: 90px 0;
+  color: #FFFFFF;
+  text-align: center;
+  width: 100%;
+}
+.glitz-newsletter-inner { max-width: 640px; margin: 0 auto; }
+.glitz-newsletter-title {
+  font-size: clamp(2rem, 3.5vw, 2.8rem);
+  font-weight: 300;
+  color: #FFFFFF;
+  margin: 0 0 14px 0;
+  line-height: 1.2;
+}
+.glitz-newsletter-sub {
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.75);
+  line-height: 1.6;
+  margin: 0 0 32px 0;
+  font-weight: 300;
+}
+.glitz-newsletter-form {
+  display: flex;
+  gap: 10px;
+  max-width: 520px;
+  margin: 0 auto 14px auto;
+}
+@media (max-width: 640px) {
+  .glitz-newsletter-form { flex-direction: column; }
+}
+.glitz-newsletter-input {
+  flex-grow: 1;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 9999px;
+  padding: 16px 24px;
+  color: #FFFFFF;
+  font-size: 14px;
+  outline: none;
+}
+.glitz-newsletter-input::placeholder { color: rgba(255, 255, 255, 0.45); }
+.glitz-newsletter-input:focus {
+  border-color: #C5A880;
+  background: rgba(255, 255, 255, 0.12);
+}
+.glitz-newsletter-btn {
+  background: linear-gradient(135deg, #C5A880 0%, #9D7F57 100%);
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 16px 28px;
+  border-radius: 9999px;
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.3s ease;
+}
+.glitz-newsletter-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(197, 168, 128, 0.4);
+}
+.glitz-newsletter-terms {
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.45);
+}
+</style>
+
+<div class="glitz-newsletter-wrapper">
+  <div class="glitz-container">
+    <div class="glitz-newsletter-inner">
+      <div class="glitz-hero-badge" style="margin: 0 auto 16px auto;">
+        <span>CLUBE GLITZ VIP</span>
+      </div>
+      <h2 class="glitz-newsletter-title">Descubra Sua Próxima Assinatura Olfativa</h2>
+      <p class="glitz-newsletter-sub">Cadastre-se para receber convites para lançamentos exclusivos, guias olfativos e <strong>10% OFF na primeira compra</strong>.</p>
+      <div class="glitz-newsletter-form">
+        <input type="email" class="glitz-newsletter-input" placeholder="Seu melhor e-mail..." />
+        <button type="button" class="glitz-newsletter-btn">Quero Meu Desconto</button>
+      </div>
+      <span class="glitz-newsletter-terms">Respeitamos sua privacidade. Cancele sua inscrição quando desejar.</span>
+    </div>
+  </div>
+</div>
+
+	</div>
+
+												</div>
+	</div>
+
+
+
+
+
+                                                                                        <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="after_dynamic_section_newsletter_custom"
+                                data-nubesdk-section-type="custom"                data-nubesdk-section-id="newsletter_custom"                data-nubesdk-section-index="7"                            ></div>
+            
+</section>
+
+    </main>
+
+        <footer id="ns-section-footer" class="ns-section section-footer" data-section-id="footer" data-section-type="footer">
+
+
+													
+							
+				
+
+
+
+
+                                                            <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_footer_internal"
+                                                                                            ></div>
+                                                                    <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="before_footer"
+                                                                                            ></div>
+            
+
+<div
+	class="js-hide-footer-while-scrolling footer-content section-full-width"
+	data-store="footer"
+	data-section-id="footer"
+	style="padding-top: 80px; padding-bottom: 80px;	padding-left: 40px; padding-right: 40px;	--footer-background: #0D1C1E; background-color: #0D1C1E;	--footer-foreground: #FFFFFF; color: #FFFFFF; --footer-foreground-opacity-10: #FFFFFF1A; --footer-foreground-opacity-20: #FFFFFF33; --footer-foreground-opacity-40: #FFFFFF66; --footer-foreground-opacity-60: #FFFFFF99;">
+								<div class="footer-main-info footer-main-info-toggle">
+											
+
+<div class="footer-contact-info-container" id="ns-block-institutional" data-block-id="institutional" data-block-type="footer-institutional">
+
+				<div class="footer-institutional-header">
+								<div class="footer-institutional-description user-content">
+				Alta perfumaria e fragrâncias exclusivas com fixação marcante, matérias-primas nobres e acordes que transformam sua presença.
+			</div>
+				</div>
+	
+		
+		
+</div>
+
+											
+
+	<div class="js-accordion-private-container accordion-container footer-menu-accordion" id="ns-block-menu_1" data-block-id="menu_1" data-block-type="footer-menu">
+					<a href="#" class="js-accordion-private-toggle-mobile accordion-title footer-menu-toggle-title">
+									<div class="footer-menu-title">
+					Coleções
+				</div>
+									<span class="d-md-none">
+					<span class="js-accordion-private-toggle-inactive">
+						<svg class="accordion-toggle-icon icon-inline"><use xlink:href="#plus"/></svg>
+					</span>
+					<span class="js-accordion-private-toggle-inactive" style="display: none;">
+						<svg class="accordion-toggle-icon icon-inline"><use xlink:href="#minus"/></svg>
+					</span>
+				</span>
+			</a>
+			<div class="js-accordion-private-content js-accordion-private-content-mobile footer-menu-accordion-content">
+						<ul class="list list-unstyled footer-menu-list">
+											<li>
+							<a href="/" >Início</a>
+						</li>
+											<li>
+							<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/produtos/" >Produtos</a>
+						</li>
+											<li>
+							<a href="/contato/" >Contato</a>
+						</li>
+									</ul>
+					</div>
+			</div>
+
+											
+
+	<div class="js-accordion-private-container accordion-container footer-menu-accordion" id="ns-block-menu_2" data-block-id="menu_2" data-block-type="footer-menu">
+					<a href="#" class="js-accordion-private-toggle-mobile accordion-title footer-menu-toggle-title">
+									<div class="footer-menu-title">
+					Institucional
+				</div>
+									<span class="d-md-none">
+					<span class="js-accordion-private-toggle-inactive">
+						<svg class="accordion-toggle-icon icon-inline"><use xlink:href="#plus"/></svg>
+					</span>
+					<span class="js-accordion-private-toggle-inactive" style="display: none;">
+						<svg class="accordion-toggle-icon icon-inline"><use xlink:href="#minus"/></svg>
+					</span>
+				</span>
+			</a>
+			<div class="js-accordion-private-content js-accordion-private-content-mobile footer-menu-accordion-content">
+						<ul class="list list-unstyled footer-menu-list">
+											<li>
+							<a href="/" >Início</a>
+						</li>
+											<li>
+							<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/produtos/" >Produtos</a>
+						</li>
+											<li>
+							<a href="/contato/" >Contato</a>
+						</li>
+									</ul>
+					</div>
+			</div>
+
+											
+
+	<div class="js-accordion-private-container accordion-container footer-menu-accordion" id="ns-block-menu_3" data-block-id="menu_3" data-block-type="footer-menu">
+					<a href="#" class="js-accordion-private-toggle-mobile accordion-title footer-menu-toggle-title">
+									<div class="footer-menu-title">
+					Atendimento
+				</div>
+									<span class="d-md-none">
+					<span class="js-accordion-private-toggle-inactive">
+						<svg class="accordion-toggle-icon icon-inline"><use xlink:href="#plus"/></svg>
+					</span>
+					<span class="js-accordion-private-toggle-inactive" style="display: none;">
+						<svg class="accordion-toggle-icon icon-inline"><use xlink:href="#minus"/></svg>
+					</span>
+				</span>
+			</a>
+			<div class="js-accordion-private-content js-accordion-private-content-mobile footer-menu-accordion-content">
+						<ul class="list list-unstyled footer-menu-list">
+											<li>
+							<a href="/" >Início</a>
+						</li>
+											<li>
+							<a href="https://glitzcosmeticos.lojavirtualnuvem.com.br/produtos/" >Produtos</a>
+						</li>
+											<li>
+							<a href="/contato/" >Contato</a>
+						</li>
+									</ul>
+					</div>
+			</div>
+
+									</div>
+
+							
+						<div class="footer-secondary-info">
+				
+
+	<div class="footer-payments-shipping-container">
+		
+					<div class="footer-payment-group">
+				<span class="footer-payment-shipping-label">Formas de pagamento</span>
+			<span class="footer-logos-wrapper">
+							
+
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="visa"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/visa@2x.png"
+												/>
+
+	
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="mastercard"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/mastercard@2x.png"
+												/>
+
+	
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="amex"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/amex@2x.png"
+												/>
+
+	
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="diners"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/diners@2x.png"
+												/>
+
+	
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="br_aura"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/br/aura@2x.png"
+												/>
+
+	
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="br_elo"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/br/elo@2x.png"
+												/>
+
+	
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="br_hipercard"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/br/hipercard@2x.png"
+												/>
+
+	
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="br_discover"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/br/discover@2x.png"
+												/>
+
+	
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="boleto"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/boleto@2x.png"
+												/>
+
+	
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="payment-method-types_pix"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/payment-method-types/pix@2x.png"
+												/>
+
+				</span>
+		</div>
+	
+			<div class="footer-payment-group">
+			<span class="footer-payment-shipping-label">Métodos de envio</span>
+			<span class="footer-logos-wrapper">
+							
+
+				
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+							width="40"
+				height="25"
+					class="lazyload icon-logo "
+						alt="api_4190"
+
+							src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="									data-src="//d26lpennugtm8s.cloudfront.net/assets/common/img/logos/shipping/api/4190@2x.png"
+												/>
+
+				</span>
+			</div>
+			</div>
+
+<div class="footer-legal-container">
+	
+	
+
+
+
+                                                            <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="inside_footer"
+                                                                                            ></div>
+            
+
+	<div>
+				<div>
+			<span class="footer-powered-by">
+				<div class="powered-by-logo">
+                    <a target="_blank" title="Nuvemshop" rel="nofollow" href="https://www.nuvemshop.com.br?utm_source=store&utm_medium=referral&utm_campaign=footerSlogan"><svg title="Nuvemshop" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 120" id="svg_brand"><path d="M29.9 42.8c4.6 0 8.8 1.3 12.5 3.8v7.9c-3.9-3-7.9-4.4-12.2-4.4-9 0-15.5 6.9-15.5 15.8 0 8.8 6.5 15.8 15.5 15.8 4.6 0 8.9-2.1 12.4-4.4v7.9c-3.9 2.5-8.1 3.7-12.7 3.7-13.8 0-23.1-10.1-23.1-23.1 0-12.9 9.5-23 23.1-23zM73.2 51c-.1 0-.3 0-.5-.1-.4 0-1-.1-1.6-.1-8.3 0-13.2 6.5-13.2 16.1v21h-7.7V43.8h7.6v7.8c1.9-5.1 7.8-8.5 13.5-8.5.6 0 1 .1 1.4.1.3.1.5.1.5.1V51zm9.9-15.1c-2.9 0-5.3-2.4-5.3-5.3s2.4-5.3 5.3-5.3 5.3 2.4 5.3 5.3-2.4 5.3-5.3 5.3zm3.9 7.9v44.1h-7.8V43.8H87zm23.6 18.3l13.2-1.6v-2.3c0-5.4-3.4-8.5-9.3-8.5-5.3 0-8.7 2.6-10.3 7.8l-7.4-2.1c2.2-7.7 8.9-12.6 17.5-12.6 10.8 0 17 6.1 17 16v29.1H124v-5.8c-3.5 4.4-8.9 6.8-14.8 6.8-8.3 0-13.9-5.4-13.9-12.6 0-7.9 5-12.8 15.3-14.2zm0 19.9c7.6 0 13.2-4.9 13.2-11.7v-3.2l-12 1.5c-5.5.7-8.6 3.4-8.6 7.2 0 3.7 3.1 6.2 7.4 6.2zm73.3-57.7v63.5h-7.7v-7c-3.2 4.8-9.1 8-15.6 8-12.6 0-22.2-10-22.2-23.1 0-13 9.5-23.1 22.2-23.1 6.5 0 12.3 2.8 15.6 7.6V24.3h7.7zm-22.4 25.6c-8.7 0-15.2 6.9-15.2 15.9s6.4 15.9 15.2 15.9 15.2-6.9 15.2-15.9c-.1-9-6.5-15.9-15.2-15.9zm76.2 15.9c0 12.7-9.7 23.1-23.1 23.1-13.3 0-23.1-10.3-23.1-23.1s9.7-23.1 23.1-23.1c13.4.1 23.1 10.4 23.1 23.1zm-38.2 0c0 8.8 6.4 15.9 15.2 15.9s15.2-7.1 15.2-15.9-6.4-15.9-15.2-15.9-15.2 7.1-15.2 15.9zm77.7-23c4.6 0 8.8 1.3 12.5 3.8v7.9c-3.9-3-7.9-4.4-12.2-4.4-9 0-15.5 6.9-15.5 15.8 0 8.8 6.5 15.8 15.5 15.8 4.6 0 8.9-2.1 12.4-4.4v7.9c-3.9 2.5-8.1 3.7-12.7 3.7-13.8 0-23.1-10.1-23.1-23.1.1-12.9 9.6-23 23.1-23zm63.2 23c0 12.7-9.7 23.1-23.1 23.1-13.3 0-23.1-10.3-23.1-23.1s9.7-23.1 23.1-23.1c13.4.1 23.1 10.4 23.1 23.1zm-38.2 0c0 8.8 6.4 15.9 15.2 15.9s15.2-7.1 15.2-15.9-6.4-15.9-15.2-15.9-15.2 7.1-15.2 15.9zm53.7 22.1h-7.8V43.8h7.7v6.4c2.5-4.6 6.8-7.4 13-7.4 6.5 0 11.3 3.2 13.9 8.6 2.3-3.7 6.6-8.6 15.1-8.6 10.3 0 16.2 7.2 16.2 18.5v26.6h-7.8V62.6c0-7.9-3.4-12.7-10-12.7-6.9 0-11.3 5.7-11.3 14.8v23.1h-7.8v-25c0-8-3.4-12.9-10-12.9-6.9 0-11.3 5.7-11.3 14.8l.1 23.2zM621.8 87.8h-10.5V43.3h10.5v5.9c2.8-4.3 7.4-7 13.6-7 10.9 0 17.2 7.2 17.2 18.8v26.8h-10.5V63c0-6.9-3.4-11.1-9.9-11.1-6.3 0-10.4 4.8-10.4 12.4v23.5zm38.4-19.2V43.3h10.5V68c0 7 3.4 11.2 9.3 11.2 5.8 0 9.3-4.2 9.3-11.2V43.3h10.5v25.3c0 12.8-7.4 20.2-19.8 20.2-12.3.1-19.8-7.4-19.8-20.2zM703 43.3h11.2L726 74.2l12-30.9h10.9l-18.3 44.5h-9.3L703 43.3zm88.4 34c-3.7 7-10.6 11.5-20.1 11.5-13.5 0-23.1-9.6-23.1-23.3 0-13.3 9.8-23.3 22.6-23.3 13 0 22.1 10 22.1 23.3 0 .8 0 1.9-.1 3.2h-34.2c.5 6.4 6.2 11.3 12.8 11.3 5.8 0 8.8-2.8 11.3-6.7l8.7 4zm-8.9-16.2c-.7-5.9-5.4-10.3-11.9-10.3-6.3 0-11.2 5.2-11.9 10.3h23.8zM809 87.8h-10.5V43.3H809v5.9c2.5-4.3 6.6-7 12.7-7 6.4 0 11.1 3.1 13.5 8.3 2.4-4.3 7.4-8.3 14.8-8.3 10.3 0 16.2 7.1 16.2 18.2v27.3h-10.5V62.5c0-6.5-3-10.6-8.5-10.6-5.7 0-9.4 4.6-9.5 11.9v24h-10.5v-25c0-6.9-3-11-8.5-11-5.8 0-9.5 4.7-9.5 12.3v23.7h-.2zm70-14.7c1.5 4.1 4.9 6.8 8.9 6.8 3.3 0 6-1.5 6-4.6 0-2.5-1.5-3.7-5.1-4.8l-5.4-1.7c-7.5-2.4-11.3-6.7-11.3-12.9 0-8.3 7-13.6 15.3-13.6 7.3 0 13.3 3.9 16.2 10.1l-8.4 4.5c-1.7-3.5-4.4-5.9-7.7-5.9-3 0-5.4 1.5-5.4 4.1 0 2.1 1.6 3.7 5 4.8l5.3 1.7c8.3 2.8 11.7 7.1 11.7 13 0 9.1-7.6 14.3-16.3 14.3-8.3 0-14.7-4.4-17.2-11.3l8.4-4.5zm40.8 14.7h-10.5V26.7h10.5v22.5c2.8-4.3 7.4-7 13.6-7 10.9 0 17.2 7.2 17.2 18.8v26.8h-10.5V63c0-6.9-3.4-11.1-9.9-11.1-6.3 0-10.4 4.8-10.4 12.4v23.5zm83.8-22.3c0 13.1-10.1 23.3-23.7 23.3s-23.7-10.3-23.7-23.3c0-13.1 10.1-23.3 23.7-23.3s23.7 10.3 23.7 23.3zm-36.9 0c0 7.6 5.8 13.7 13.2 13.7s13.2-6.1 13.2-13.7-5.8-13.7-13.2-13.7-13.2 6.1-13.2 13.7zm53.4-22.2v6.4c3.3-4.6 8.9-7.4 15.1-7.4 12.3 0 21.7 10 21.7 23.3 0 13.1-9.4 23.3-21.7 23.3-6.2 0-11.8-2.5-15.1-7.2v22.7h-10.4V43.3h10.4zm12.9 8.5c-7.5 0-13.3 6.2-13.3 13.8s5.8 13.8 13.3 13.8 13.3-6.2 13.3-13.8-5.8-13.8-13.3-13.8zM533.3 10c-.1 0-.1 0 0 0-13.2 0-25.6 5.1-34.9 14.2-4.7-2-9.9-3.1-15.2-3.1-21.4 0-38.9 17.4-38.9 38.9s17.4 38.9 38.9 38.9c5.2 0 10.4-1.1 15.1-3.1 9 8.8 21.3 14.2 34.8 14.2 27.6 0 50-22.4 50-50 .1-27.5-22.3-50-49.8-50zm-.1 88.9c-21.4 0-38.9-17.4-38.9-38.9h-11.1c0 9.8 2.8 19 7.7 26.7-2.5.7-5.1 1.1-7.7 1.1-15.3 0-27.8-12.5-27.8-27.8s12.5-27.8 27.8-27.8c6.1 0 11.8 1.9 16.7 5.6C507 43.1 511 51.2 511 60h11.1c0-11.6-5-22.4-13.9-29.8 7-5.8 15.8-9.1 25-9.1 21.4 0 38.9 17.5 38.9 38.9s-17.5 38.9-38.9 38.9z"/></svg></a>
+                </div>
+			</span>
+			<span class="footer-copyright">
+				Copyright Glitz  Cosmeticos - 47951022000109 - 2026. Todos os direitos reservados.
+			</span>
+		</div>
+	</div>
+</div>
+			</div>
+	</div>
+
+
+
+
+
+                                                            <div
+                class="js-nubesdk-slot"
+                data-nubesdk-slot="after_footer"
+                                                                                            ></div>
+            
+
+
+</footer>
+
+                        	
+
+
+
+<div id="quickshop-modal" class="js-modal-private modal modal-bottom modal-md-bottom modal-width-full modal-md-width-large " style="display: none;" data-component="quickshop-modal"   data-url="quickshop-modal">
+				<div class="modal-header modal-header-close-only">
+												<button class="js-modal-close-private  modal-close " data-target="#quickshop-modal" data-modal-url="quickshop-modal">
+					<svg class="modal-close-icon icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+			</div>
+			<div class="modal-body ">
+							<div class="js-quickshop-spinner quickshop-spinner" style="display: none;">
+				<svg class="icon-loading icon-inline"><use xlink:href="#spinner-third"/></svg>
+			</div>
+			<div class="js-product-item-private js-item-product js-product-container js-quickshop-container" data-product-id="" data-variants="" data-quickshop-id="">
+				<div class="grid grid-md-2">
+					<div class="quickshop-image-container">
+					<div class="js-quickshop-image-padding">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+										class="lazyload js-product-item-image-private js-quickshop-img quickshop-image img-fluid w-100"
+						alt=""
+
+																data-src=""
+												/>
+
+						</div>
+					</div>
+					<div class="js-item-variants quickshop-details">
+						<div class="js-item-name quickshop-name" data-store="product-item-title-"></div>
+						<div class="quickshop-price-container price-container" data-store="product-item-price-">
+							<span class="js-compare-price-display price-compare"></span>
+						<div class="quickshop-price-row">
+							<span class="js-price-display quickshop-price font-family-body"></span>
+						</div>
+							
+		
+			
+		
+			
+	<div class="js-payment-discount-price-product-container payment-discount-price-product-container quickshop-discount-container" style="display: none;">
+				<span
+			class="js-payment-discount-price-product payment-discount-price-product quickshop-discount-price font-family-body"
+			data-priceraw-without-shipping=""
+			data-combines-with-free-shipping="false"
+		>
+			R$0,00
+		</span>
+		<span>com</span>
+		<span class="js-payment-discount-name-product "></span>
+	</div>
+						</div>
+						<div id="quickshop-form" class="quickshop-form quickshop-form-container"></div>
+					</div>
+				</div>
+			</div>
+					</div>
+				</div>
+	<div class="js-modal-close-private js-modal-overlay-private modal-overlay " data-overlay-id="#quickshop-modal" data-target="#quickshop-modal" data-modal-url="quickshop-modal" style="display: none;"></div>
+      
+            
+
+	
+
+
+
+<div id="modal-cart" class="js-modal-private modal modal-right modal-md-docked modal-md-docked-right modal-width-full modal-md-width-small " style="display: none;" data-component="cart" data-cart-open-type="show_notification"  data-url="modal-cart">
+			<form action="/comprar/" method="post" class="modal-form " data-store="cart-form">
+				<div class="modal-header ">
+																			<span class="modal-title ">Carrinho de compras</span>
+													<button class="js-modal-close-private  modal-close " data-target="#modal-cart" data-modal-url="modal-cart">
+					<svg class="modal-close-icon icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+			</div>
+			<div class="modal-body ">
+							
+
+
+
+
+                                                            <div
+                class="js-visible-on-cart-filled js-nubesdk-slot"
+                data-nubesdk-slot="before_line_items"
+                                                                                style="display:none;"
+                            ></div>
+            
+
+<div class="js-ajax-cart-list">
+		</div>
+
+
+
+
+
+                                                            <div
+                class="js-visible-on-cart-filled js-nubesdk-slot"
+                data-nubesdk-slot="after_line_items"
+                                                                                style="display:none;"
+                            ></div>
+            
+
+<div class="js-empty-ajax-cart" >
+		<div class="alert alert-info" data-component="cart.empty-message">Seu carrinho está vazio </div>
+</div>
+<div id="error-ajax-stock" style="display: none;">
+	<div class="alert alert-warning m-3">
+		Ops! Não temos mais estoque deste produto para adicionar ao carrinho. Se quiser, você pode<a href="/produtos/" class="cart-stock-link btn-link">ver outros aqui</a>
+	</div>
+</div>
+
+<div class="cart-row">
+	
+		
+		<div class="js-visible-on-cart-filled" style="display:none;">
+		
+	<div class="js-fulfillment-info js-allows-non-shippable" style="display: none">
+
+						
+								
+		<div class="progress-bar js-ship-free-rest cart-summary-free-shipping-bar shipping-progress-bar box" style="display: none;">
+	<div class="progress-bar-header">
+		<div class="progress-bar-title js-ship-free-rest-message ship-free-rest-message">				<div class="ship-free-rest-text bar-progress-success">
+											Ótimo! Você tem frete grátis
+									</div>
+				<div class="ship-free-rest-text bar-progress-amount">
+					Você está a <span class="js-ship-free-dif"></span> de ter frete grátis!
+				</div>
+				<div class="ship-free-rest-text bar-progress-condition">
+											Grátis
+										acima de <span class="js-ship-free-min-price"></span>
+				</div>
+			</div>
+					
+
+<svg class="progress-bar-icon icon-inline">
+  <use xlink:href="#truck"/>
+</svg>
+			</div>
+	<div class="progress-bar-subtitle"></div>
+	<div class="js-bar-progress bar-progress">
+		<div class="js-bar-progress-active bar-progress-active" style="width: 0%;"></div>
+	</div>
+</div>
+	</div>
+	</div>
+
+	
+	
+
+
+
+                                                            <div
+                class="js-visible-on-cart-filled js-nubesdk-slot"
+                data-nubesdk-slot="before_cart_shipping_options"
+                                                                                style="display:none;"
+                            ></div>
+            
+
+	
+
+  <div class="js-fulfillment-info js-allows-non-shippable cart-fulfillment-info" style="display: none">
+    <div class="js-visible-on-cart-filled js-has-new-shipping js-shipping-calculator-container">
+
+      
+      <div class="js-shipping-method-unavailable shipping-unavailable-alert alert alert-warning" style="display: none;">
+        <div>O método de envio que você havia escolhido não está mais disponível para este carrinho.</div>
+        <div>Não se preocupe! Você pode escolher outro.</div>
+      </div>
+
+      
+      <div id="cart-shipping-container" class="shipping-wrapper"  style="display: none;" data-shipping-url="/frete/" data-free-label="Grátis">
+
+        
+        <span id="cart-selected-shipping-method" data-code="" class="hidden"></span>
+
+        
+                  
+
+
+
+
+<div class="shipping-calculator" data-store="shipping-calculator">
+	<div class="js-shipping-calculator-head form-swap with-form ">
+		<div class="js-shipping-calculator-with-zipcode form-swap-value transition-up">
+			<div class="d-grid grid-1-auto align-items-center">
+				<span class="form-swap-value-label">
+					<span>Entregas para o CEP:</span>
+					<strong class="js-shipping-calculator-current-zip"></strong>
+				</span>
+				<span>
+					<a class="js-shipping-calculator-change-zipcode btn btn-link font-small" href="#">Mudar CEP</a>
+				</span>
+			</div>
+		</div>
+
+		<div class="js-shipping-calculator-form form-swap-input transition-up">
+
+			
+			<div class="form-label">
+				Formas de envio
+			</div>
+
+			<div class="input-append">
+				<input
+					type="tel"
+					name="zipcode"
+					value=""
+					class="js-shipping-input form-control"
+					placeholder="Seu CEP"
+					aria-label="Seu CEP"
+				/>
+				<button type="button" class="js-calculate-shipping btn btn-inline btn-outline" aria-label="Calcular frete">
+					<span class="js-calculate-shipping-wording">Calcular</span>
+					<span class="js-calculating-shipping-wording" style="display: none;">Calculando</span>
+					<span class="loading" style="display: none;">
+						
+  
+<svg class="icon-loading icon-inline" style="width: 16px; height: 16px;">
+  <use xlink:href="#spinner-third"/>
+</svg>
+					</span>
+				</button>
+			</div>
+			
+																	<a class=" btn btn-link font-small" href="http://www.buscacep.correios.com.br/sistemas/buscacep/" target="_blank">Não sei meu CEP</a>
+						
+						<div class="shipping-calculator-alerts">
+				<div class="js-ship-calculator-error invalid-zipcode alert alert-danger" style="display: none;">
+					
+					
+																																								Não encontramos este CEP. Está correto?
+
+																						</div>
+				<div class="js-ship-calculator-error js-ship-calculator-common-error alert alert-danger" style="display: none;">Ocorreu um erro ao calcular o frete. Por favor, tente novamente em alguns segundos.</div>
+				<div class="js-ship-calculator-error js-ship-calculator-external-error alert alert-danger" style="display: none;">O cálculo falhou devido a um problema com o método de envio. Por favor, tente novamente em alguns segundos.</div>
+			</div>
+		</div>
+	</div>
+	<div class="js-shipping-calculator-spinner" style="display: none;">
+		<div class="placeholder-row">
+    <div class="placeholder-content">
+        <div class="placeholder-line-spaced placeholder placeholder-line placeholder-shine"></div>
+        <div class="shipping-placeholder-line-short placeholder placeholder-line placeholder-shine"></div>
+    </div>
+    <div>
+        <div class="placeholder placeholder-line placeholder-shipping-price placeholder-shine"></div>
+    </div>
+</div>
+
+<div class="placeholder-row">
+    <div class="placeholder-content">
+        <div class="placeholder-line-spaced placeholder placeholder-line placeholder-shine"></div>
+        <div class="shipping-placeholder-line-short placeholder placeholder-line placeholder-shine"></div>
+    </div>
+    <div>
+        <div class="placeholder placeholder-line placeholder-shipping-price placeholder-shine"></div>
+    </div>
+</div>
+	</div>
+	<div class="js-shipping-calculator-response shipping-calculator-response  radio-buttons-group" style="display: none;"></div>
+</div>
+
+
+        
+        
+              </div>
+    </div>
+  </div>
+
+	
+
+
+
+                                                            <div
+                class="js-visible-on-cart-filled js-nubesdk-slot"
+                data-nubesdk-slot="after_cart_shipping_options"
+                                                                                style="display:none;"
+                            ></div>
+            
+
+
+
+
+
+		
+		
+<div class="js-subtotal-price subtotal-price hidden" data-priceraw="0" style="display: none;"></div>
+
+<div id="store-curr" class="hidden" style="display: none;">BRL</div>
+
+
+<div class="js-visible-on-cart-filled" style="display:none;">
+
+	<div class="cart-subtotals-container">
+
+		
+		<div class="cart-totals-row cart-totals-subtotal" data-store="cart-subtotal">
+			<span>
+				Subtotal  (sem frete):
+			</span>
+			<span class="js-ajax-cart-total js-cart-subtotal" data-priceraw="0" data-component="cart.subtotal" data-component-value='0'>R$0,00</span>
+		</div>
+
+		
+		
+
+
+
+
+
+
+		
+		<div class="js-total-promotions cart-totals-promotions">
+			<span class="js-promo-discount" style="display:none;">Desconto</span>
+			<span class="js-promo-in" style="display:none;">em</span>
+			<span class="js-promo-all" style="display:none;">todos os produtos</span>
+			<span class="js-promo-buying" style="display:none;"> comprando</span>
+			<span class="js-promo-units-or-more" style="display:none;"> ou mais</span>
+			<span class="js-cart-discount-automatic" style="display:none;">Desconto</span>
+			<span class="js-cart-discount-with-coupon" style="display:none;">Desconto do cupom:</span>
+					</div>
+
+		
+		
+		
+		<div class="js-coupon-discount-row cart-totals-row cart-totals-promotions" data-coupon-row="non-shipping" style="display:none;">
+						<span>Desconto do cupom:</span>
+			<span class="js-coupon-discount-amount"></span>
+		
+		</div>
+
+		
+					<div id="shipping-cost-container" class="js-fulfillment-info js-shipping-cost-table cart-totals-row cart-totals-shipping" style="display:none;">
+				<span>Custo de frete</span>
+				<span>
+					<span id="shipping-cost" class="cart-totals-hint" data-free-shipping-wording="Grátis" data-component="cart.shipping_costs">Calcule para ver</span>
+					<span class="js-calculating-shipping-cost cart-totals-hint" style="display: none">Calculando...</span>
+					<span class="js-shipping-cost-empty cart-totals-hint" style="display: none">Calcule para ver</span>
+				</span>
+			</div>
+
+						<div class="js-shipping-discount-row cart-totals-row cart-totals-promotions" data-component="cart.shipping_discount" style="display:none;">
+				<span>Desconto no frete</span>
+				<span class="js-shipping-discount-amount"></span>
+			</div>
+		
+		
+		<div class="js-coupon-discount-row cart-totals-row cart-totals-promotions" data-coupon-row="shipping" style="display:none;">
+						<span>Desconto do cupom:</span>
+			<span class="js-coupon-discount-amount"></span>
+		
+		</div>
+
+	</div>
+
+	
+
+
+
+                                                            <div
+                class="js-visible-on-cart-filled js-nubesdk-slot"
+                data-nubesdk-slot="after_cart_summary"
+                                                                                style="display:none;"
+                            ></div>
+            
+
+	
+	<div class="js-cart-total-container" data-store="cart-total">
+
+		<div class="cart-totals-row cart-totals-total">
+			<span>Total:</span>
+			<span class="js-cart-total" data-component="cart.total" data-component-value='0'>R$0,00</span>
+		</div>
+
+		
+		<div class="total-price hidden" style="display: none;">
+			Total: R$0,00
+		</div>
+
+		
+		
+		
+			
+		
+			
+	<div class="js-payment-discount-price-cart-container payment-discount-price-cart-container cart-totals-payment-info" style="display: none;">
+					<span>Ou</span>
+				<span
+			class="js-payment-discount-price-cart payment-discount-price-cart "
+			data-priceraw-without-shipping="0"
+			data-combines-with-free-shipping="true"
+		>
+			R$0,00
+		</span>
+		<span>com</span>
+		<span class="js-payment-discount-name-cart "></span>
+	</div>
+
+		
+		
+	</div>
+
+</div>
+
+		
+		
+		
+
+
+
+
+                                                            <div
+                class="js-visible-on-cart-filled js-nubesdk-slot"
+                data-nubesdk-slot="before_go_to_checkout"
+                                                                                style="display:none;"
+                            ></div>
+            
+
+<div class="js-visible-on-cart-filled" style="display:none;">
+
+  
+  
+    
+  
+    
+    <div class="js-ajax-cart-submit"  id="ajax-cart-submit-div" >
+      <input class="btn btn-primary btn-big btn-block" type="submit" name="go_to_checkout" value="Iniciar compra" data-component="cart.checkout-button"/>
+    </div>
+
+        
+<div id="ajax-cart-minumum-div" class="js-ajax-cart-minimum alert alert-warning" style="display:none">
+    O valor mínimo de compra é de R$0,00 sem considerar o custo de frete.
+</div>
+<input type="hidden" id="ajax-cart-minimum-value" value="0"/>
+
+<div class="js-checkout-enabled-validation-messages " data-alert-classes="alert alert-warning" data-component="checkout-enabled-validation-messages" style="display:none" role="status">
+    </div>
+
+  
+  
+
+
+
+                                                            <div
+                class="js-visible-on-cart-filled js-nubesdk-slot"
+                data-nubesdk-slot="after_go_to_checkout"
+                                                                                style="display:none;"
+                            ></div>
+            
+
+  
+  <div class="cart-continue-shopping">
+    <a href="#" data-target="#modal-cart" class="js-modal-close-private btn btn-link">Ver mais produtos</a>
+  </div>
+</div>
+
+</div>
+					</div>
+						</form>
+	</div>
+	<div class="js-modal-close-private js-modal-overlay-private modal-overlay " data-overlay-id="#modal-cart" data-target="#modal-cart" data-modal-url="modal-cart" style="display: none;"></div>
+
+	
+		
+		
+
+
+
+<div id="related-products-notification" class="js-modal-private modal modal-bottom modal-md-bottom modal-width-full modal-md-width-medium h-auto" style="display: none;"    data-url="related-products-notification">
+				<div class="modal-header ">
+																			<span class="modal-title ">Adicionado ao carrinho!</span>
+													<button class="js-modal-close-private  modal-close " data-target="#related-products-notification" data-modal-url="related-products-notification">
+					<svg class="modal-close-icon icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+			</div>
+			<div class="modal-body ">
+								
+
+
+
+
+
+			
+			<div class="js-alert-add-to-cart-private d-md-grid grid-1-auto">
+			<div class="notification-cart-inline notification">
+				<div class="js-cart-notification-item-private notification-cart-item d-grid grid-auto-1" data-store="cart-notification-item">
+				<div class="notification-cart-image-container mr-3">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<img
+										class="lazyload js-cart-notification-item-image-private notification-cart-image img-absolute-centered-vertically"
+						alt=""
+
+																data-src=""
+												/>
+
+					</div>
+				<div class="notification-info-container notification-info-compact">
+					<div class="notification-info-line">
+						<span class="js-cart-notification-item-name-private"></span>
+						<span class="js-cart-notification-item-variant-container-private" style="display: none;">
+							(<span class="js-cart-notification-item-variant-private"></span>)
+						</span>
+					</div>
+					<div class="notification-info-line">
+						<span>
+							<span class="js-cart-notification-item-quantity-private"></span>
+							<span> x </span>
+						</span>
+						<span class="js-cart-notification-item-price-private"></span>
+						<span class="js-cart-notification-discount-label notification-cart-discount-label" style="display: none;">
+							<span class="js-cart-notification-discount-percentage notification-cart-discount-badge"></span>
+						</span>
+					</div>
+									</div>
+			</div>
+		</div>
+					<div>
+				<div class="notification-cart-total">
+					<span class="pr-3">
+						<span>Total</span>
+						(<span class="js-cart-widget-amount">
+							0
+						</span>
+						<span class="js-cart-counts-plural-private" style="display: none;">
+							produtos
+						</span>
+						<span class="js-cart-counts-singular-private" style="display: none;">
+							produto
+						</span>)
+					</span>
+					<span class="js-cart-total-private js-cart-widget-total">R$0,00</span>
+				</div>
+									
+									<button data-target="#related-products-notification" class="js-modal-close-private js-open-cart-modal btn btn-primary btn-block">Ver carrinho</button>
+												</div>
+			</div>
+				<div class="js-related-products-notification-container" style="display: none"></div>
+						</div>
+				</div>
+	<div class="js-modal-close-private js-modal-overlay-private modal-overlay " data-overlay-id="#related-products-notification" data-target="#related-products-notification" data-modal-url="related-products-notification" style="display: none;"></div>
+	
+	
+	
+
+
+
+<div id="js-cross-selling-modal" class="js-modal-private modal modal-bottom modal-md-bottom modal-width-full modal-md-width-small modal-nav-main bottom modal-bottom-sheet h-auto overflow-none modal-body-scrollable-auto modal-max-98vh" style="display: none;"    data-url="js-cross-selling-modal">
+				<div class="modal-header p-quarter full-width">
+																			<span class="modal-title ">Desconto exclusivo!</span>
+													<button class="js-modal-close-private  modal-close " data-target="#js-cross-selling-modal" data-modal-url="js-cross-selling-modal">
+					<svg class="modal-close-icon icon-inline"><use xlink:href="#times"/></svg>
+				</button>
+			</div>
+			<div class="modal-body ">
+							<div class="js-cross-selling-modal-body" style="display: none"></div>
+					</div>
+				</div>
+	<div class="js-modal-close-private js-modal-overlay-private modal-overlay " data-overlay-id="#js-cross-selling-modal" data-target="#js-cross-selling-modal" data-modal-url="js-cross-selling-modal" style="display: none;"></div>
+
+            
+
+            
+            <span class="js-ship-free-min hidden" data-pricemin="0"></span>
+      <span class="js-free-shipping-config hidden" data-config=""></span>
+      <span class="js-cart-subtotal hidden" data-priceraw="0"></span>
+      <span class="js-cart-discount hidden" data-priceraw="0"></span>
+    
+        <script type="text/javascript" src="//dcdn-us.mitiendanube.com/assets/themes/ipanema/static/js/libraries-standalone-a0db0bc608f94b4469d89e831a7a29bc30.js" ></script>
+
+        <script>
+      LS.ready.then(function() {
+
+        
+        var script = document.createElement('script');
+        script.src = '//dcdn-us.mitiendanube.com/assets/themes/ipanema/static/js/store-0de43cbc60df7e0168cea8463f23caa830.js';
+        document.body.appendChild(script);
+      });
+    </script>
+
+    
+<script type="text/javascript">
+(function() {
+	var referrer = (window.decodeURI) ? window.decodeURI(document.referrer) : document.referrer;
+    var url = (window.decodeURI) ? window.decodeURI(document.URL) : document.URL;
+
+	setTimeout(function() {
+            var tracking_url = '/stats/record_visit/?' +
+                      'referrer=' + encodeURIComponent(referrer) +
+                      '&url=' + encodeURIComponent(url)
+                                                                                                    + '&social_event_id_suffix=4c21da7a\u002Da696\u002D411c\u002D811a\u002Dfc3bd3e5c546'
+                                                                                    ;
+            new Image().src = tracking_url;
+	  }, 500);
+})();
+</script>
+
+
+
+
+
+<script type="text/javascript">
+    LS.ready.then(function() {
+        
+        LS.socialScripts.forEach(function (scriptSrc) {
+            window.scriptLoaderService.addScriptOnEvent(scriptSrc, 'onload');
+        });
+    });
+</script>
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"586895d758224ecc944837e871aa382e","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
