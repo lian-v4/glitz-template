@@ -34,32 +34,50 @@
             "purchase_info": {
               "type": "purchase-info",
               "settings": {
-                "icon_size": 24,
+                "icon_size": 28,
                 "title_size": "paragraph",
                 "description_size": "paragraph_small",
-                "gap": 24
+                "gap": 16
               },
               "blocks": {
-                "icon_returns": {
-                  "type": "icon-text-item",
-                  "settings": {
-                    "icon": "returns",
-                    "title": "Seu título aqui",
-                    "description": "Seu texto aqui"
-                  }
-                },
                 "icon_security": {
                   "type": "icon-text-item",
                   "settings": {
                     "icon": "security",
-                    "title": "Seu título aqui",
-                    "description": "Seu texto aqui"
+                    "title": "Compra 100% Segura",
+                    "description": "Ambiente protegido com criptografia SSL e total privacidade."
+                  }
+                },
+                "icon_origin": {
+                  "type": "icon-text-item",
+                  "settings": {
+                    "icon": "check",
+                    "title": "100% Original e Lacrado",
+                    "description": "Fragrâncias exclusivas com garantia de procedência oficial."
+                  }
+                },
+                "icon_shipping": {
+                  "type": "icon-text-item",
+                  "settings": {
+                    "icon": "shipping",
+                    "title": "Envio Rápido com Rastreio",
+                    "description": "Entrega segura para todo o Brasil com código de rastreamento."
+                  }
+                },
+                "icon_returns": {
+                  "type": "icon-text-item",
+                  "settings": {
+                    "icon": "returns",
+                    "title": "Garantia de Satisfação",
+                    "description": "Até 7 dias para troca ou devolução sem burocracia."
                   }
                 }
               },
               "block_order": [
-                "icon_returns",
-                "icon_security"
+                "icon_security",
+                "icon_origin",
+                "icon_shipping",
+                "icon_returns"
               ]
             }
           },
@@ -87,7 +105,7 @@
         "complementary_heading": {
           "type": "heading",
           "settings": {
-            "title": "Seu título aqui",
+            "title": "Fragrâncias Complementares",
             "size": "h2"
           }
         },
@@ -117,7 +135,7 @@
         "alternative_heading": {
           "type": "heading",
           "settings": {
-            "title": "Seu título aqui",
+            "title": "Você Também Pode Gostar",
             "size": "h2"
           }
         },
